@@ -13,7 +13,7 @@
     - conda activate cuda10
   #### I) Training Mask RCNN and generating Ensemled data
   - If you just wanna to see results for MaskRCNN as mentioned in project report, download the weights from following link and put them under "logs" folder:
-    - [Weights for Resized_Image_Mode](https://drive.google.com/file/d/1Ln5RcC9RlzHK5NTMzjsF3_X5GXYp2F7L/view?usp=sharing)   
+    - [Weights for Resized_Image_Mode](https://drive.google.com/file/d/1Ln5RcC9RlzHK5NTMzjsF3_X5GXYp2F7L/view?usp=sharing) gives accuracy of 92.13 % (best accuracy)  
     - [Weights for Random_Crop Mode](https://drive.google.com/file/d/1dM_86GJXRrx8Bdo_Y4TeuL1H45aox56y/view?usp=sharing)
   -  Execute the follwing jupyter notebook: [Mask_RCNN_notebook](https://github.com/harshgrovr/Semester_Project/blob/master/Mask_RCNN/samples/shapes/MaskRCNN.ipynb)
   - If you want to train the network from scratch,  uncomment the code under Training section, that will train the network and will save the weights.
