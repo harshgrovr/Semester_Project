@@ -16,8 +16,7 @@
     - [Weights for Resized_Image_Mode](https://drive.google.com/file/d/1Ln5RcC9RlzHK5NTMzjsF3_X5GXYp2F7L/view?usp=sharing) gives accuracy of 92.13 % (best accuracy)  
     - [Weights for Random_Crop Mode](https://drive.google.com/file/d/1dM_86GJXRrx8Bdo_Y4TeuL1H45aox56y/view?usp=sharing)
   -  Execute the follwing jupyter notebook: [Mask_RCNN_notebook](https://github.com/harshgrovr/Semester_Project/blob/master/Mask_RCNN/samples/shapes/MaskRCNN.ipynb)
-  - If you want to train the network from scratch,  uncomment the code under Training section, that will train the network and will save the weights.
-  - Under the Ensembling section we concatenate MaskRCNNs' output with the the original image and save it as a .pickle file. That data set will be used in following of the training, i.e. training FCN8 with the ensembled data.
+  - If you want to train the network from scratch,  uncomment the code under Training section, that will train the network and will save the weights.  
   - Dataset and results can be found under: [Dataset](https://github.com/harshgrovr/Semester_Project/tree/master/Mask_RCNN/datasets/documents/images) and "Semester_Project/tree/master/Mask_RCNN/output_test_prediction" (will be generated during prediction time).
   - This notebook contains code for the sections like Visualzing Anchors and also the Prediction on Cropped Image and Stiching the Image to get full Size prediction.
  
