@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:50.797+01:00</Created>
+        <LastChange>2018-02-12T13:11:48.837+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="1433243313511_1_16a.tiff" imageWidth="2811" imageHeight="4780">
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518189927167_37" custom="readingOrder {index:0;}">
+            <Coords points="282,194 2764,191 2764,585 1175,590 1165,647 291,630"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518189984376_38" custom="readingOrder {index:1;}">
+            <Coords points="273,663 1113,663 1109,787 994,789 977,879 677,914 621,1134 283,1118"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518190242449_39" custom="readingOrder {index:2;}">
+            <Coords points="429,1681 1056,1678 1056,1891 429,1894"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518190277803_40" custom="readingOrder {index:3;}">
+            <Coords points="375,3633 2800,3633 2806,4283 2623,4272 2605,4432 1671,4422 1638,4398 1576,4405 1234,4399 1092,4390 796,4396 605,4379 375,4423"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518190291398_41" custom="readingOrder {index:4;}">
+            <Coords points="413,4410 615,4378 643,4396 1092,4391 1629,4398 2127,4416 2536,4451 2530,4644 685,4644 639,4672 599,4654 406,4644"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518190400188_42" custom="readingOrder {index:5;}">
+            <Coords points="2684,4284 2755,4284 2755,4397 2684,4397"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

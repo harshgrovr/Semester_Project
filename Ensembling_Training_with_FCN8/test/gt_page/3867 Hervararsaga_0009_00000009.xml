@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:54.256+01:00</Created>
+        <LastChange>2018-02-09T18:15:20.930+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="3867 Hervararsaga_0009_00000009.tif" imageWidth="3193" imageHeight="3920">
+        <GraphicRegion id="Graphic_1518196458615_354" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="150,783 612,783 612,1151 150,1151"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196460891_355" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="650,766 713,766 713,995 650,995"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196466815_356" custom="readingOrder {index:2;}" type="handwritten-annotation">
+            <Coords points="1178,703 2084,703 2084,717 1178,717"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196486624_357" custom="readingOrder {index:3;}" type="handwritten-annotation">
+            <Coords points="1445,1405 2051,1405 2051,1423 1445,1423"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196490580_358" custom="readingOrder {index:4;}" type="handwritten-annotation">
+            <Coords points="1430,1486 1787,1486 1787,1512 1430,1512"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196499171_359" custom="readingOrder {index:5;}" type="handwritten-annotation">
+            <Coords points="1439,2022 1969,2022 1969,2049 1439,2049"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196503084_360" custom="readingOrder {index:6;}" type="handwritten-annotation">
+            <Coords points="1423,2108 1755,2116 1763,2132 1429,2126"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

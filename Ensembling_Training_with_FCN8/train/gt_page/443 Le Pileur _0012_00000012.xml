@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:50.252+01:00</Created>
+        <LastChange>2018-02-09T14:20:34.770+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="443 Le Pileur _0012_00000012.tif" imageWidth="2333" imageHeight="3669">
+        <GraphicRegion id="Graphic_1518182156611_1" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="597,1770 612,1770 612,2031 597,2031"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518182161683_2" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="349,1816 494,1806 477,1955 345,1968"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518182167309_3" custom="readingOrder {index:2;}" type="handwritten-annotation">
+            <Coords points="1038,1916 1525,1915 1525,1929 1038,1930"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518182173905_4" custom="readingOrder {index:3;}" type="handwritten-annotation">
+            <Coords points="572,2742 607,2745 622,2944 583,2940"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518182179395_5" custom="readingOrder {index:4;}" type="handwritten-annotation">
+            <Coords points="1311,2909 1818,2909 1818,2934 1311,2934"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518182188105_6" custom="readingOrder {index:5;}" type="handwritten-annotation">
+            <Coords points="323,2970 1328,2972 1341,3074 718,3054 648,3092 610,3091 599,3048 325,3061"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518182193779_7" custom="readingOrder {index:6;}" type="handwritten-annotation">
+            <Coords points="413,3074 604,3073 611,3093 655,3090 724,3063 2044,3054 2043,3179 1582,3171 1534,3284 415,3288"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

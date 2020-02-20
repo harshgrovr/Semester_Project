@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:51.801+01:00</Created>
+        <LastChange>2018-02-09T17:12:24.086+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="2209_vollst_Büsching_0025_00000027.tif" imageWidth="2509" imageHeight="4251">
+        <GraphicRegion id="Graphic_1518192278463_122" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="1038,720 1480,720 1480,744 1038,744"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192283066_123" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="822,851 1164,835 1168,859 822,868"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192302311_124" custom="readingOrder {index:2;}" type="handwritten-annotation">
+            <Coords points="1660,1675 2099,1675 2099,1697 1660,1697"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192305441_125" custom="readingOrder {index:3;}" type="handwritten-annotation">
+            <Coords points="2217,1489 2243,1489 2243,1647 2217,1647"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192314186_126" custom="readingOrder {index:4;}" type="handwritten-annotation">
+            <Coords points="334,1816 585,1816 585,1832 334,1832"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192328751_127" custom="readingOrder {index:5;}" type="handwritten-annotation">
+            <Coords points="286,2294 713,2294 713,2312 286,2312"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192335109_128" custom="readingOrder {index:6;}" type="handwritten-annotation">
+            <Coords points="1499,2630 1819,2622 1819,2638 1499,2654"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192353110_129" custom="readingOrder {index:7;}" type="handwritten-annotation">
+            <Coords points="1926,2160 2076,2160 2076,2195 1926,2195"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192360730_130" custom="readingOrder {index:8;}" type="handwritten-annotation">
+            <Coords points="1233,2768 1760,2737 1768,2764 1229,2800"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192385526_131" custom="readingOrder {index:9;}" type="handwritten-annotation">
+            <Coords points="559,2869 842,2869 842,2895 559,2895"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192392021_132" custom="readingOrder {index:10;}" type="handwritten-annotation">
+            <Coords points="1091,2872 1938,2860 1937,2893 1656,2890 1282,2889 1091,2893"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192434731_133" custom="readingOrder {index:11;}" type="handwritten-annotation">
+            <Coords points="1555,3224 1904,3224 1904,3252 1555,3252"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192442184_134" custom="readingOrder {index:12;}" type="handwritten-annotation">
+            <Coords points="2103,2918 2331,2918 2331,3154 2103,3154"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518192650232_135" custom="readingOrder {index:13;}" type="handwritten-annotation">
+            <Coords points="1492,2976 1558,2976 1556,3002 1518,3002 1517,3113 1492,3117"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

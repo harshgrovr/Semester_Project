@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:50.600+01:00</Created>
+        <LastChange>2018-02-12T14:29:54.451+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="582a_Hesiods_Werke_0011_00000011.tif" imageWidth="1668" imageHeight="2775">
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518182600836_11" custom="readingOrder {index:0;}">
+            <Coords points="991,1054 1169,1054 1169,1073 991,1073"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518182605168_12" custom="readingOrder {index:1;}">
+            <Coords points="461,1224 841,1224 840,1245 460,1245"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518182634302_13" custom="readingOrder {index:2;}">
+            <Coords points="510,2010 856,2010 855,2026 509,2026"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518182647975_14" custom="readingOrder {index:3;}">
+            <Coords points="374,2175 594,2175 593,2189 373,2189"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518182685405_15" custom="readingOrder {index:4;}">
+            <Coords points="1278,1701 1319,1701 1319,1779 1278,1779"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518182701619_16" custom="readingOrder {index:5;}">
+            <Coords points="160,1465 201,1466 200,1489 182,1492 191,1556 149,1557"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518442164173_4" custom="readingOrder {index:6;}">
+            <Coords points="1349,948 1368,948 1368,1050 1349,1050"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

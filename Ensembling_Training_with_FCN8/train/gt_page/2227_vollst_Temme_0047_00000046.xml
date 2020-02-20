@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:53.204+01:00</Created>
+        <LastChange>2018-02-09T17:47:03.814+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="2227_vollst_Temme_0047_00000046.tif" imageWidth="2436" imageHeight="3802">
+        <GraphicRegion id="Graphic_1518194788606_202" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="376,2646 932,2628 933,2657 368,2664"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194805860_203" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="1814,2546 1976,2546 1976,2561 1814,2561"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

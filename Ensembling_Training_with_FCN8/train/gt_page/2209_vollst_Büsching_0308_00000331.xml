@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:52.680+01:00</Created>
+        <LastChange>2018-02-09T17:33:03.279+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="2209_vollst_Büsching_0308_00000331.tif" imageWidth="2509" imageHeight="4250">
+        <GraphicRegion id="Graphic_1518193953583_176" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="564,3007 845,2998 953,2985 954,3005 566,3026"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

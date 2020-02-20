@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:52.993+01:00</Created>
+        <LastChange>2018-02-09T18:29:08.382+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="2227_vollst_Temme_0010_00000009.tif" imageWidth="2436" imageHeight="3802">
+        <GraphicRegion id="Graphic_1518194499728_191" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="1201,692 1884,692 1884,725 1201,725"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194503010_192" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="1550,789 1884,789 1884,819 1550,819"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194509421_193" custom="readingOrder {index:2;}" type="handwritten-annotation">
+            <Coords points="356,804 1002,798 999,816 356,840"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194541941_194" custom="readingOrder {index:3;}" type="handwritten-annotation">
+            <Coords points="545,1529 1138,1529 1138,1556 545,1556"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194546503_195" custom="readingOrder {index:4;}" type="handwritten-annotation">
+            <Coords points="1162,1517 1923,1517 1923,1550 1162,1550"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194555836_196" custom="readingOrder {index:5;}" type="handwritten-annotation">
+            <Coords points="1180,2296 1472,2296 1472,2326 1180,2326"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194560375_197" custom="readingOrder {index:6;}" type="handwritten-annotation">
+            <Coords points="1396,2398 1754,2395 1757,2425 1396,2425"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194564128_198" custom="readingOrder {index:7;}" type="handwritten-annotation">
+            <Coords points="1426,2591 1727,2591 1727,2618 1426,2618"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518197346519_368" custom="readingOrder {index:8;}" type="handwritten-annotation">
+            <Coords points="2134,2208 2177,2208 2177,2320 2134,2320"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

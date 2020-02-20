@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:51.474+01:00</Created>
+        <LastChange>2018-02-09T16:55:47.037+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="2209_vollst_Büsching_0012_00000013.tif" imageWidth="2508" imageHeight="4251">
+        <GraphicRegion id="Graphic_1518191652833_98" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="1154,672 1771,672 1771,694 1154,694"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518191656694_99" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="1788,1198 1979,1198 1979,1226 1788,1226"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518191664937_100" custom="readingOrder {index:2;}" type="handwritten-annotation">
+            <Coords points="1746,1332 1970,1332 1970,1361 1746,1361"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518191682081_101" custom="readingOrder {index:3;}" type="handwritten-annotation">
+            <Coords points="831,1899 1420,1886 1418,1909 831,1919"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518191700820_102" custom="readingOrder {index:4;}" type="handwritten-annotation">
+            <Coords points="863,2039 1168,2019 1167,2041 863,2058"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518191724469_103" custom="readingOrder {index:5;}" type="handwritten-annotation">
+            <Coords points="1316,2572 1687,2555 1683,2572 1316,2590"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

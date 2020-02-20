@@ -1,0 +1,1890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2017-11-21T07:49:11</Created>
+	<LastChange>2017-12-13T15:32:49</LastChange>
+	<Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: German
+                Language: GermanStandard
+                Producer: ABBYY FineReader Engine 11</Comments></Metadata>
+	<Page imageFilename="0004_grimm_donner_1855_0004.jpg" imageWidth="1000" imageHeight="1190">
+	<PrintSpace>
+	<Coords points="166,114 752,112 747,899 170,908"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r_2_1" index="0"/>
+	<RegionRefIndexed regionRef="r_3_1" index="1"/>
+	<RegionRefIndexed regionRef="r_3_2" index="2"/>
+	<RegionRefIndexed regionRef="r_3_3" index="3"/>
+	<RegionRefIndexed regionRef="r_3_4" index="4"/>
+	<RegionRefIndexed regionRef="r_3_5" index="5"/>
+	<RegionRefIndexed regionRef="r_3_6" index="6"/>
+	<RegionRefIndexed regionRef="r_3_7" index="7"/>
+	<RegionRefIndexed regionRef="TextRegion_1512737925294_1" index="8"/>
+	<RegionRefIndexed regionRef="TextRegion_1512737941888_2" index="9"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r_2_1" custom="readingOrder {index:0;}" type="page-number">
+	<Coords points="451,115 468,115 468,130 451,130"/>
+	<TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="452,116 467,116 467,129 452,129"/>
+	<Baseline points="452,129 467,129"/>
+	<Word id="w_w1aab1b3b2b1b1ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="452,116 467,116 467,129 452,129"/>
+	<TextEquiv>
+	<Unicode>27</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="24.00000"/></Word>
+	<TextEquiv>
+	<Unicode>27</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="24.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>27</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_3_1" custom="readingOrder {index:1;}" type="paragraph">
+	<Coords points="178,149 734,149 734,282 178,282"/>
+	<TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="186,150 733,150 733,169 186,169"/>
+	<Baseline points="186,163 733,163"/>
+	<Word id="w_w1aab1b5b2b1b1ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="186,152 228,152 228,169 186,169"/>
+	<TextEquiv>
+	<Unicode>häufig</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b1ac15" language="German" custom="readingOrder {index:1;}">
+	<Coords points="236,152 249,152 249,164 236,164"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b1ac21" language="German" custom="readingOrder {index:2;}">
+	<Coords points="258,154 403,154 403,169 258,169"/>
+	<TextEquiv>
+	<Unicode>Zusammensetzungen,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b1ac59" language="German" custom="readingOrder {index:3;}">
+	<Coords points="425,151 503,151 503,169 425,169"/>
+	<TextEquiv>
+	<Unicode>gewöhnlich</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b1ac81" language="German" custom="readingOrder {index:4;}">
+	<Coords points="512,151 539,151 539,163 512,163"/>
+	<TextEquiv>
+	<Unicode>sind</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b1ac91" language="German" custom="readingOrder {index:5;}">
+	<Coords points="549,155 562,155 562,163 549,163"/>
+	<TextEquiv>
+	<Unicode>es</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b1ac97" language="German" custom="readingOrder {index:6;}">
+	<Coords points="570,151 646,151 646,166 570,166"/>
+	<TextEquiv>
+	<Unicode>communia,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b1ad117" language="German" custom="readingOrder {index:7;}">
+	<Coords points="656,150 676,150 676,163 656,163"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b1ad125" language="German" custom="readingOrder {index:8;}">
+	<Coords points="683,150 733,150 733,168 683,168"/>
+	<TextEquiv>
+	<Unicode>epische</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>häufig in Zusammensetzungen, gewöhnlich sind es communia, die epische</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:1;}">
+	<Coords points="187,173 733,173 733,192 187,192"/>
+	<Baseline points="187,186 733,186"/>
+	<Word id="w_w1aab1b5b2b1b3ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,174 239,174 239,192 187,192"/>
+	<TextEquiv>
+	<Unicode>spräche</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b3ac17" language="German" custom="readingOrder {index:1;}">
+	<Coords points="246,174 293,174 293,187 246,187"/>
+	<TextEquiv>
+	<Unicode>bildete</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b3ac33" language="German" custom="readingOrder {index:2;}">
+	<Coords points="300,174 330,174 330,187 300,187"/>
+	<TextEquiv>
+	<Unicode>aber</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b3ac43" language="German" custom="readingOrder {index:3;}">
+	<Coords points="337,174 368,174 368,186 337,186"/>
+	<TextEquiv>
+	<Unicode>auch</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b3ac53" language="German" custom="readingOrder {index:4;}">
+	<Coords points="375,174 405,174 405,186 375,186"/>
+	<TextEquiv>
+	<Unicode>fern,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b3ac65" language="German" custom="readingOrder {index:5;}">
+	<Coords points="413,173 435,173 435,186 413,186"/>
+	<TextEquiv>
+	<Unicode>auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b3ac73" language="German" custom="readingOrder {index:6;}">
+	<Coords points="440,179 462,179 462,188 440,188"/>
+	<TextEquiv>
+	<Unicode>eia,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b3ac83" language="German" custom="readingOrder {index:7;}">
+	<Coords points="471,174 483,174 483,186 471,186"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b3ac89" language="German" custom="readingOrder {index:8;}">
+	<Coords points="492,173 553,173 553,186 492,186"/>
+	<TextEquiv>
+	<Unicode>welchem</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b3ad105" language="German" custom="readingOrder {index:9;}">
+	<Coords points="562,173 595,173 595,186 562,186"/>
+	<TextEquiv>
+	<Unicode>dann</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b3ad115" language="German" custom="readingOrder {index:10;}">
+	<Coords points="603,173 658,173 658,186 603,186"/>
+	<TextEquiv>
+	<Unicode>sichtbar</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b3ad133" language="German" custom="readingOrder {index:11;}">
+	<Coords points="667,173 689,173 689,186 667,186"/>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b3ad141" language="German" custom="readingOrder {index:12;}">
+	<Coords points="695,174 733,174 733,190 695,190"/>
+	<TextEquiv>
+	<Unicode>sigma</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>spräche bildete aber auch fern, auf eia, in welchem dann sichtbar das sigma</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:2;}">
+	<Coords points="187,195 732,195 732,214 187,214"/>
+	<Baseline points="187,208 732,208"/>
+	<Word id="w_w1aab1b5b2b1b5ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,196 205,196 205,209 187,209"/>
+	<TextEquiv>
+	<Unicode>als</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b5ab9" language="German" custom="readingOrder {index:1;}">
+	<Coords points="211,199 298,199 298,214 211,214"/>
+	<TextEquiv>
+	<Unicode>ausgcstoszcn</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b5ac35" language="German" custom="readingOrder {index:2;}">
+	<Coords points="304,201 320,201 320,208 304,208"/>
+	<TextEquiv>
+	<Unicode>zu</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b5ac41" language="German" custom="readingOrder {index:3;}">
+	<Coords points="327,196 401,196 401,208 327,208"/>
+	<TextEquiv>
+	<Unicode>betrachten</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b5ac63" language="German" custom="readingOrder {index:4;}">
+	<Coords points="407,196 427,196 427,208 407,208"/>
+	<TextEquiv>
+	<Unicode>ist.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b5ac73" language="German" custom="readingOrder {index:5;}">
+	<Coords points="447,200 462,200 462,208 447,208"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b5ac79" language="German" custom="readingOrder {index:6;}">
+	<Coords points="470,196 517,196 517,208 470,208"/>
+	<TextEquiv>
+	<Unicode>diesem</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b5ac93" language="German" custom="readingOrder {index:7;}">
+	<Coords points="525,196 563,196 563,213 525,213"/>
+	<TextEquiv>
+	<Unicode>sigma</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b5ad105" language="German" custom="readingOrder {index:8;}">
+	<Coords points="572,196 635,196 635,213 572,213"/>
+	<TextEquiv>
+	<Unicode>sprieszen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b5ad125" language="German" custom="readingOrder {index:9;}">
+	<Coords points="642,195 675,195 675,208 642,208"/>
+	<TextEquiv>
+	<Unicode>noch</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b5ad135" language="German" custom="readingOrder {index:10;}">
+	<Coords points="681,195 732,195 732,211 681,211"/>
+	<TextEquiv>
+	<Unicode>räthscl,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>als ausgcstoszcn zu betrachten ist. an diesem sigma sprieszen noch räthscl,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:3;}">
+	<Coords points="186,218 733,218 733,235 186,235"/>
+	<Baseline points="186,231 733,231"/>
+	<Word id="w_w1aab1b5b2b1b7ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="186,224 214,224 214,231 186,231"/>
+	<TextEquiv>
+	<Unicode>man</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b7ab9" language="German" custom="readingOrder {index:1;}">
+	<Coords points="221,219 272,219 272,231 221,231"/>
+	<TextEquiv>
+	<Unicode>möchte</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b7ac23" language="German" custom="readingOrder {index:2;}">
+	<Coords points="279,219 291,219 291,231 279,231"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b7ac29" language="German" custom="readingOrder {index:3;}">
+	<Coords points="298,218 331,218 331,231 298,231"/>
+	<TextEquiv>
+	<Unicode>allen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b7ac41" language="German" custom="readingOrder {index:4;}">
+	<Coords points="338,218 390,218 390,231 338,231"/>
+	<TextEquiv>
+	<Unicode>solchen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b7ac57" language="German" custom="readingOrder {index:5;}">
+	<Coords points="397,218 467,218 467,235 397,235"/>
+	<TextEquiv>
+	<Unicode>adjectiven</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b7ac79" language="German" custom="readingOrder {index:6;}">
+	<Coords points="475,218 545,218 545,235 475,235"/>
+	<TextEquiv>
+	<Unicode>gleichfalls</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b7ad103" language="German" custom="readingOrder {index:7;}">
+	<Coords points="553,218 618,218 618,235 553,235"/>
+	<TextEquiv>
+	<Unicode>participia</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b7ad125" language="German" custom="readingOrder {index:8;}">
+	<Coords points="625,220 673,220 673,235 625,235"/>
+	<TextEquiv>
+	<Unicode>praet.,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b7ad141" language="German" custom="readingOrder {index:9;}">
+	<Coords points="683,218 705,218 705,230 683,230"/>
+	<TextEquiv>
+	<Unicode>mit</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b7ad149" language="German" custom="readingOrder {index:10;}">
+	<Coords points="711,218 733,218 733,230 711,230"/>
+	<TextEquiv>
+	<Unicode>ab-</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>man möchte in allen solchen adjectiven gleichfalls participia praet., mit ab-</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:4;}">
+	<Coords points="179,240 733,240 733,258 179,258"/>
+	<Baseline points="179,252 733,252"/>
+	<Word id="w_w1aab1b5b2b1b9ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="179,246 181,246 181,248 179,248"/>
+	<TextEquiv>
+	<Unicode>-</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b9ab5" language="German" custom="readingOrder {index:1;}">
+	<Coords points="187,241 247,241 247,258 187,258"/>
+	<TextEquiv>
+	<Unicode>gefall»er</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b9ac25" language="German" custom="readingOrder {index:2;}">
+	<Coords points="253,240 346,240 346,258 253,258"/>
+	<TextEquiv>
+	<Unicode>reduplication</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b9ac53" language="German" custom="readingOrder {index:3;}">
+	<Coords points="353,240 422,240 422,255 353,255"/>
+	<TextEquiv>
+	<Unicode>erblicken,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b9ac75" language="German" custom="readingOrder {index:4;}">
+	<Coords points="430,244 444,244 444,252 430,252"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b9ac81" language="German" custom="readingOrder {index:5;}">
+	<Coords points="451,240 479,240 479,252 451,252"/>
+	<TextEquiv>
+	<Unicode>dasz</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b9b1b1" language="German" custom="readingOrder {index:6;}">
+	<Coords points="488,244 527,244 527,257 488,257"/>
+	<TextEquiv>
+	<Unicode>tra&lt;ftY[g</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000" italic="true"/></Word>
+	<Word id="w_w1aab1b5b2b1b9b2b3" language="German" custom="readingOrder {index:7;}">
+	<Coords points="536,240 556,240 556,252 536,252"/>
+	<TextEquiv>
+	<Unicode>für</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b9b2c11" language="German" custom="readingOrder {index:8;}">
+	<Coords points="563,243 616,243 616,256 563,256"/>
+	<TextEquiv>
+	<Unicode>yetra^»)?</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b9b2c31" language="German" custom="readingOrder {index:9;}">
+	<Coords points="622,240 670,240 670,255 622,255"/>
+	<TextEquiv>
+	<Unicode>stände,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1b9b3b1" language="German" custom="readingOrder {index:10;}">
+	<Coords points="678,244 716,244 716,258 678,258"/>
+	<TextEquiv>
+	<Unicode>iVTrqe?</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000" italic="true"/></Word>
+	<Word id="w_w1aab1b5b2b1b9b4b1" language="German" custom="readingOrder {index:11;}">
+	<Coords points="716,241 733,241 733,254 716,254"/>
+	<TextEquiv>
+	<Unicode>nj«</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>- gefall»er reduplication erblicken, so dasz tra&lt;ftY[g für yetra^»)? stände, iVTrqe?nj«</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:5;}">
+	<Coords points="187,263 370,263 370,281 187,281"/>
+	<Baseline points="187,275 370,275"/>
+	<Word id="w_w1aab1b5b2b1c11ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,264 207,264 207,275 187,275"/>
+	<TextEquiv>
+	<Unicode>ein</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b1c11b1b1" language="German" custom="readingOrder {index:1;}">
+	<Coords points="213,268 271,268 271,281 213,281"/>
+	<TextEquiv>
+	<Unicode>7nx%eirY;</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000" italic="true"/></Word>
+	<Word id="w_w1aab1b5b2b1c11b2b3" language="German" custom="readingOrder {index:2;}">
+	<Coords points="277,263 370,263 370,275 277,275"/>
+	<TextEquiv>
+	<Unicode>voraussetzte?</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>ein 7nx%eirY; voraussetzte?</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>häufig in Zusammensetzungen, gewöhnlich sind es communia, die epische
+spräche bildete aber auch fern, auf eia, in welchem dann sichtbar das sigma
+als ausgcstoszcn zu betrachten ist. an diesem sigma sprieszen noch räthscl,
+man möchte in allen solchen adjectiven gleichfalls participia praet., mit ab-
+- gefall»er reduplication erblicken, so dasz tra&lt;ftY[g für yetra^»)? stände, iVTrqe?nj«
+ein 7nx%eirY; voraussetzte?</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_3_2" custom="readingOrder {index:2;}" type="heading">
+	<Coords points="452,300 466,300 466,316 452,316"/>
+	<TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="453,301 465,301 465,315 453,315"/>
+	<Baseline points="453,315 465,315"/>
+	<Word id="w_w1aab1b5b2b3b1ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="453,301 465,301 465,315 453,315"/>
+	<TextEquiv>
+	<Unicode>D</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<TextEquiv>
+	<Unicode>D</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>D</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_3_3" custom="readingOrder {index:3;}" type="paragraph">
+	<Coords points="185,326 734,326 734,414 185,414"/>
+	<TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="235,327 733,327 733,345 235,345"/>
+	<Baseline points="235,340 733,340"/>
+	<Word id="w_w1aab1b5b2b5b1ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="235,329 272,329 272,342 235,342"/>
+	<TextEquiv>
+	<Unicode>Nach</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1ac11" language="German" custom="readingOrder {index:1;}">
+	<Coords points="280,328 382,328 382,341 280,341"/>
+	<TextEquiv>
+	<Unicode>altchinesischer</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1b1b1" language="German" custom="readingOrder {index:2;}">
+	<Coords points="390,328 468,328 468,345 390,345"/>
+	<TextEquiv>
+	<Unicode>Vorstellung</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="19.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1b2b1" language="German" custom="readingOrder {index:3;}">
+	<Coords points="477,328 503,328 503,345 477,345"/>
+	<TextEquiv>
+	<Unicode>gibt</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1b2c11" language="German" custom="readingOrder {index:4;}">
+	<Coords points="511,332 524,332 524,340 511,340"/>
+	<TextEquiv>
+	<Unicode>es</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1b2c17" language="German" custom="readingOrder {index:5;}">
+	<Coords points="533,328 569,328 569,340 533,340"/>
+	<TextEquiv>
+	<Unicode>einen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1b2c29" language="German" custom="readingOrder {index:6;}">
+	<Coords points="578,327 660,327 660,345 578,345"/>
+	<TextEquiv>
+	<Unicode>donuergott,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1b2c53" language="German" custom="readingOrder {index:7;}">
+	<Coords points="672,328 702,328 702,340 672,340"/>
+	<TextEquiv>
+	<Unicode>bald</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b1b2c63" language="German" custom="readingOrder {index:8;}">
+	<Coords points="710,328 733,328 733,340 710,340"/>
+	<TextEquiv>
+	<Unicode>lüi-</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Nach altchinesischer Vorstellung gibt es einen donuergott, bald lüi-</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:1;}">
+	<Coords points="186,349 732,349 732,367 186,367"/>
+	<Baseline points="186,363 732,363"/>
+	<Word id="w_w1aab1b5b2b5b3ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="186,352 213,352 213,364 186,364"/>
+	<TextEquiv>
+	<Unicode>tien</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ac11" language="German" custom="readingOrder {index:1;}">
+	<Coords points="221,351 276,351 276,367 221,367"/>
+	<TextEquiv>
+	<Unicode>(donner</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ac27" language="German" custom="readingOrder {index:2;}">
+	<Coords points="282,350 308,350 308,363 282,363"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ac35" language="German" custom="readingOrder {index:3;}">
+	<Coords points="314,350 355,350 355,367 314,367"/>
+	<TextEquiv>
+	<Unicode>blitz),</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ac51" language="German" custom="readingOrder {index:4;}">
+	<Coords points="364,350 393,350 393,362 364,362"/>
+	<TextEquiv>
+	<Unicode>bald</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ac61" language="German" custom="readingOrder {index:5;}">
+	<Coords points="400,350 468,350 468,364 400,364"/>
+	<TextEquiv>
+	<Unicode>lüi-schfn</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ac81" language="German" custom="readingOrder {index:6;}">
+	<Coords points="475,350 579,350 579,367 475,367"/>
+	<TextEquiv>
+	<Unicode>(donnergenius)</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ad111" language="German" custom="readingOrder {index:7;}">
+	<Coords points="589,350 621,350 621,363 589,363"/>
+	<TextEquiv>
+	<Unicode>oder</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ad121" language="German" custom="readingOrder {index:8;}">
+	<Coords points="627,350 689,350 689,367 627,367"/>
+	<TextEquiv>
+	<Unicode>lüi-küog</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b3ad139" language="German" custom="readingOrder {index:9;}">
+	<Coords points="695,349 732,349 732,367 695,367"/>
+	<TextEquiv>
+	<Unicode>(don-</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>tien (donner und blitz), bald lüi-schfn (donnergenius) oder lüi-küog (don-</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:2;}">
+	<Coords points="187,372 732,372 732,390 187,390"/>
+	<Baseline points="187,384 732,384"/>
+	<Word id="w_w1aab1b5b2b5b5ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,373 240,373 240,386 187,386"/>
+	<TextEquiv>
+	<Unicode>nerherr</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="19.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5ac17" language="German" custom="readingOrder {index:1;}">
+	<Coords points="248,376 306,376 306,390 248,390"/>
+	<TextEquiv>
+	<Unicode>genannt,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="19.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5b1b1" language="German" custom="readingOrder {index:2;}">
+	<Coords points="326,377 340,377 340,385 326,385"/>
+	<TextEquiv>
+	<Unicode>er</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5b1b7" language="German" custom="readingOrder {index:3;}">
+	<Coords points="347,372 380,372 380,385 347,385"/>
+	<TextEquiv>
+	<Unicode>fährt</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5b1c19" language="German" custom="readingOrder {index:4;}">
+	<Coords points="387,372 409,372 409,386 387,386"/>
+	<TextEquiv>
+	<Unicode>auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5b1c27" language="German" custom="readingOrder {index:5;}">
+	<Coords points="416,372 522,372 522,389 416,389"/>
+	<TextEquiv>
+	<Unicode>gcwittcrwolken</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5b1c57" language="German" custom="readingOrder {index:6;}">
+	<Coords points="529,372 572,372 572,385 529,385"/>
+	<TextEquiv>
+	<Unicode>einher</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5b1c71" language="German" custom="readingOrder {index:7;}">
+	<Coords points="580,372 607,372 607,384 580,384"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5b1c79" language="German" custom="readingOrder {index:8;}">
+	<Coords points="615,372 663,372 663,389 615,389"/>
+	<TextEquiv>
+	<Unicode>schlägt</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b5b1c95" language="German" custom="readingOrder {index:9;}">
+	<Coords points="671,372 732,372 732,385 671,385"/>
+	<TextEquiv>
+	<Unicode>verschie¬</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>nerherr genannt, er fährt auf gcwittcrwolken einher und schlägt verschie¬</Unicode></TextEquiv></TextLine>
+	<TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:3;}">
+	<Coords points="187,394 349,394 349,413 187,413"/>
+	<Baseline points="187,407 349,407"/>
+	<Word id="w_w1aab1b5b2b5b7ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,395 211,395 211,408 187,408"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b7ab9" language="German" custom="readingOrder {index:1;}">
+	<Coords points="218,396 287,396 287,413 218,413"/>
+	<TextEquiv>
+	<Unicode>gestimmte</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b5b7ac29" language="German" custom="readingOrder {index:2;}">
+	<Coords points="294,394 349,394 349,412 294,412"/>
+	<TextEquiv>
+	<Unicode>pauken.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>den gestimmte pauken.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Nach altchinesischer Vorstellung gibt es einen donuergott, bald lüi-
+tien (donner und blitz), bald lüi-schfn (donnergenius) oder lüi-küog (don-
+nerherr genannt, er fährt auf gcwittcrwolken einher und schlägt verschie¬
+den gestimmte pauken.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_3_4" custom="readingOrder {index:4;}" type="paragraph">
+	<Coords points="186,415 734,415 734,523 186,523"/>
+	<TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="235,416 733,416 733,433 235,433"/>
+	<Baseline points="235,428 733,428"/>
+	<Word id="w_w1aab1b5b2b7b1ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="235,417 262,417 262,430 235,430"/>
+	<TextEquiv>
+	<Unicode>Für</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ab9" language="German" custom="readingOrder {index:1;}">
+	<Coords points="267,417 297,417 297,429 267,429"/>
+	<TextEquiv>
+	<Unicode>blitz</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ac21" language="German" custom="readingOrder {index:2;}">
+	<Coords points="304,417 325,417 325,429 304,429"/>
+	<TextEquiv>
+	<Unicode>hat</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ac29" language="German" custom="readingOrder {index:3;}">
+	<Coords points="332,421 364,421 364,432 332,432"/>
+	<TextEquiv>
+	<Unicode>man,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ac39" language="German" custom="readingOrder {index:4;}">
+	<Coords points="372,417 414,417 414,429 372,429"/>
+	<TextEquiv>
+	<Unicode>neben</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ac51" language="German" custom="readingOrder {index:5;}">
+	<Coords points="421,416 445,416 445,429 421,429"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ac59" language="German" custom="readingOrder {index:6;}">
+	<Coords points="452,416 535,416 535,433 452,433"/>
+	<TextEquiv>
+	<Unicode>eigentlichen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ac85" language="German" custom="readingOrder {index:7;}">
+	<Coords points="540,416 624,416 624,432 540,432"/>
+	<TextEquiv>
+	<Unicode>ausdrücken,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ad109" language="German" custom="readingOrder {index:8;}">
+	<Coords points="633,416 657,416 657,428 633,428"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b1ad117" language="German" custom="readingOrder {index:9;}">
+	<Coords points="664,416 733,416 733,428 664,428"/>
+	<TextEquiv>
+	<Unicode>bildlichen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Für blitz hat man, neben den eigentlichen ausdrücken, den bildlichen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:1;}">
+	<Coords points="187,438 733,438 733,457 187,457"/>
+	<Baseline points="187,451 733,451"/>
+	<Word id="w_w1aab1b5b2b7b3ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,439 244,439 244,457 187,457"/>
+	<TextEquiv>
+	<Unicode>lüi-pien,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ac21" language="German" custom="readingOrder {index:1;}">
+	<Coords points="251,439 272,439 272,451 251,451"/>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ac29" language="German" custom="readingOrder {index:2;}">
+	<Coords points="278,440 294,440 294,451 278,451"/>
+	<TextEquiv>
+	<Unicode>ist</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ac37" language="German" custom="readingOrder {index:3;}">
+	<Coords points="300,438 356,438 356,456 300,456"/>
+	<TextEquiv>
+	<Unicode>peitsche</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ac55" language="German" custom="readingOrder {index:4;}">
+	<Coords points="363,438 395,438 395,451 363,451"/>
+	<TextEquiv>
+	<Unicode>oder</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ac65" language="German" custom="readingOrder {index:5;}">
+	<Coords points="401,438 439,438 439,455 401,455"/>
+	<TextEquiv>
+	<Unicode>geisel</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ac79" language="German" custom="readingOrder {index:6;}">
+	<Coords points="446,438 467,438 467,451 446,451"/>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ac87" language="German" custom="readingOrder {index:7;}">
+	<Coords points="472,438 527,438 527,450 472,450"/>
+	<TextEquiv>
+	<Unicode>donners</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ad103" language="German" custom="readingOrder {index:8;}">
+	<Coords points="535,438 620,438 620,454 535,454"/>
+	<TextEquiv>
+	<Unicode>(donnerers),</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ad129" language="German" custom="readingOrder {index:9;}">
+	<Coords points="628,439 650,439 650,451 628,451"/>
+	<TextEquiv>
+	<Unicode>wie</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ad137" language="German" custom="readingOrder {index:10;}">
+	<Coords points="655,438 667,438 667,455 655,455"/>
+	<TextEquiv>
+	<Unicode>ja</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ad143" language="German" custom="readingOrder {index:11;}">
+	<Coords points="674,438 706,438 706,450 674,450"/>
+	<TextEquiv>
+	<Unicode>auch</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b3ad153" language="German" custom="readingOrder {index:12;}">
+	<Coords points="713,438 733,438 733,451 713,451"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>lüi-pien, das ist peitsche oder geisel des donners (donnerers), wie ja auch die</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:2;}">
+	<Coords points="187,460 733,460 733,478 187,478"/>
+	<Baseline points="187,472 733,472"/>
+	<Word id="w_w1aab1b5b2b7b5ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,461 281,461 281,474 187,474"/>
+	<TextEquiv>
+	<Unicode>Naturforscher</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b5ac29" language="German" custom="readingOrder {index:1;}">
+	<Coords points="290,461 314,461 314,473 290,473"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b5ac37" language="German" custom="readingOrder {index:2;}">
+	<Coords points="326,461 374,461 374,473 326,473"/>
+	<TextEquiv>
+	<Unicode>donner</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b5ac51" language="German" custom="readingOrder {index:3;}">
+	<Coords points="385,462 425,462 425,473 385,473"/>
+	<TextEquiv>
+	<Unicode>einem</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b5ac63" language="German" custom="readingOrder {index:4;}">
+	<Coords points="434,460 535,460 535,478 434,478"/>
+	<TextEquiv>
+	<Unicode>peitschenknall</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b5ac93" language="German" custom="readingOrder {index:5;}">
+	<Coords points="543,460 627,460 627,477 543,477"/>
+	<TextEquiv>
+	<Unicode>vergleichen,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b5ad119" language="German" custom="readingOrder {index:6;}">
+	<Coords points="649,460 705,460 705,476 649,476"/>
+	<TextEquiv>
+	<Unicode>einfach,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b5ad137" language="German" custom="readingOrder {index:7;}">
+	<Coords points="715,460 733,460 733,472 715,472"/>
+	<TextEquiv>
+	<Unicode>lüi</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Naturforscher den donner einem peitschenknall vergleichen, einfach, lüi</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:3;}">
+	<Coords points="187,482 733,482 733,498 187,498"/>
+	<Baseline points="187,495 733,495"/>
+	<Word id="w_w1aab1b5b2b7b7ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,483 240,483 240,496 187,496"/>
+	<TextEquiv>
+	<Unicode>donner.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b7ac17" language="German" custom="readingOrder {index:1;}">
+	<Coords points="260,483 298,483 298,495 260,495"/>
+	<TextEquiv>
+	<Unicode>sehen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b7ac29" language="German" custom="readingOrder {index:2;}">
+	<Coords points="308,483 339,483 339,495 308,495"/>
+	<TextEquiv>
+	<Unicode>oder</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b7ac39" language="German" custom="readingOrder {index:3;}">
+	<Coords points="350,484 383,484 383,498 350,498"/>
+	<TextEquiv>
+	<Unicode>tien,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b7ac51" language="German" custom="readingOrder {index:4;}">
+	<Coords points="394,482 432,482 432,498 394,498"/>
+	<TextEquiv>
+	<Unicode>blitz,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b7ac65" language="German" custom="readingOrder {index:5;}">
+	<Coords points="444,482 476,482 476,495 444,495"/>
+	<TextEquiv>
+	<Unicode>auch</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b7ac75" language="German" custom="readingOrder {index:6;}">
+	<Coords points="486,482 565,482 565,495 486,495"/>
+	<TextEquiv>
+	<Unicode>sehen-tien.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b7ac99" language="German" custom="readingOrder {index:7;}">
+	<Coords points="585,483 643,483 643,494 585,494"/>
+	<TextEquiv>
+	<Unicode>tien-mu</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b7ad115" language="German" custom="readingOrder {index:8;}">
+	<Coords points="653,483 705,483 705,498 653,498"/>
+	<TextEquiv>
+	<Unicode>(mutter</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b7ad131" language="German" custom="readingOrder {index:9;}">
+	<Coords points="711,482 733,482 733,495 711,495"/>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>donner. sehen oder tien, blitz, auch sehen-tien. tien-mu (mutter des</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:4;}">
+	<Coords points="187,504 639,504 639,522 187,522"/>
+	<Baseline points="187,517 639,517"/>
+	<Word id="w_w1aab1b5b2b7b9ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,506 242,506 242,522 187,522"/>
+	<TextEquiv>
+	<Unicode>blitzes),</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9ac21" language="German" custom="readingOrder {index:1;}">
+	<Coords points="250,506 278,506 278,517 250,517"/>
+	<TextEquiv>
+	<Unicode>eine</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9ac31" language="German" custom="readingOrder {index:2;}">
+	<Coords points="285,505 360,505 360,522 285,522"/>
+	<TextEquiv>
+	<Unicode>blitzgöttin,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9ac57" language="German" custom="readingOrder {index:3;}">
+	<Coords points="368,509 392,509 392,517 368,517"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9ac65" language="German" custom="readingOrder {index:4;}">
+	<Coords points="399,509 414,509 414,517 399,517"/>
+	<TextEquiv>
+	<Unicode>an</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9ac71" language="German" custom="readingOrder {index:5;}">
+	<Coords points="420,505 450,505 450,521 420,521"/>
+	<TextEquiv>
+	<Unicode>jene</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9ac81" language="German" custom="readingOrder {index:6;}">
+	<Coords points="456,504 496,504 496,517 456,517"/>
+	<TextEquiv>
+	<Unicode>söhne</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9ac93" language="German" custom="readingOrder {index:7;}">
+	<Coords points="503,504 524,504 524,516 503,516"/>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9ad101" language="German" custom="readingOrder {index:8;}">
+	<Coords points="531,504 586,504 586,516 531,516"/>
+	<TextEquiv>
+	<Unicode>donners</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2b7b9ad117" language="German" custom="readingOrder {index:9;}">
+	<Coords points="592,504 639,504 639,516 592,516"/>
+	<TextEquiv>
+	<Unicode>mahnt.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>blitzes), eine blitzgöttin, was an jene söhne des donners mahnt.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Für blitz hat man, neben den eigentlichen ausdrücken, den bildlichen
+lüi-pien, das ist peitsche oder geisel des donners (donnerers), wie ja auch die
+Naturforscher den donner einem peitschenknall vergleichen, einfach, lüi
+donner. sehen oder tien, blitz, auch sehen-tien. tien-mu (mutter des
+blitzes), eine blitzgöttin, was an jene söhne des donners mahnt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_3_5" custom="readingOrder {index:5;}" type="paragraph">
+	<Coords points="186,525 734,525 734,608 186,608"/>
+	<TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="235,526 733,526 733,545 235,545"/>
+	<Baseline points="235,539 733,539"/>
+	<Word id="w_w1aab1b5b2b9b1ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="235,527 264,527 264,540 235,540"/>
+	<TextEquiv>
+	<Unicode>Den</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b1ab9" language="German" custom="readingOrder {index:1;}">
+	<Coords points="273,527 337,527 337,545 273,545"/>
+	<TextEquiv>
+	<Unicode>Japanern</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b1ac27" language="German" custom="readingOrder {index:2;}">
+	<Coords points="347,527 385,527 385,540 347,540"/>
+	<TextEquiv>
+	<Unicode>heiszt</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b1ac41" language="German" custom="readingOrder {index:3;}">
+	<Coords points="395,527 444,527 444,539 395,539"/>
+	<TextEquiv>
+	<Unicode>donner</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b1ac55" language="German" custom="readingOrder {index:4;}">
+	<Coords points="452,526 514,526 514,541 452,541"/>
+	<TextEquiv>
+	<Unicode>ikatsutsi,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b1ac77" language="German" custom="readingOrder {index:5;}">
+	<Coords points="524,526 584,526 584,538 524,538"/>
+	<TextEquiv>
+	<Unicode>ikadsutsi</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b1ac97" language="German" custom="readingOrder {index:6;}">
+	<Coords points="592,526 619,526 619,538 592,538"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b1ad105" language="German" custom="readingOrder {index:7;}">
+	<Coords points="628,526 693,526 693,539 628,539"/>
+	<TextEquiv>
+	<Unicode>narukami</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b1ad123" language="German" custom="readingOrder {index:8;}">
+	<Coords points="701,526 733,526 733,539 701,539"/>
+	<TextEquiv>
+	<Unicode>oder</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Den Japanern heiszt donner ikatsutsi, ikadsutsi und narukami oder</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></TextLine>
+	<TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:1;}">
+	<Coords points="187,547 732,547 732,567 187,567"/>
+	<Baseline points="187,561 732,561"/>
+	<Word id="w_w1aab1b5b2b9b3ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,550 261,550 261,567 187,567"/>
+	<TextEquiv>
+	<Unicode>umgekehrt</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b3ac21" language="German" custom="readingOrder {index:1;}">
+	<Coords points="267,549 332,549 332,562 267,562"/>
+	<TextEquiv>
+	<Unicode>kaminari.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b3ac41" language="German" custom="readingOrder {index:2;}">
+	<Coords points="352,549 408,549 408,561 352,561"/>
+	<TextEquiv>
+	<Unicode>ikatsutsi</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b3ac61" language="German" custom="readingOrder {index:3;}">
+	<Coords points="417,549 448,549 448,561 417,561"/>
+	<TextEquiv>
+	<Unicode>wird</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b3ac71" language="German" custom="readingOrder {index:4;}">
+	<Coords points="458,549 478,549 478,561 458,561"/>
+	<TextEquiv>
+	<Unicode>für</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b3ac79" language="German" custom="readingOrder {index:5;}">
+	<Coords points="484,547 546,547 546,563 484,563"/>
+	<TextEquiv>
+	<Unicode>identisch</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b3ac99" language="German" custom="readingOrder {index:6;}">
+	<Coords points="553,548 600,548 600,561 553,561"/>
+	<TextEquiv>
+	<Unicode>erklärt</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b3ad115" language="German" custom="readingOrder {index:7;}">
+	<Coords points="606,549 628,549 628,561 606,561"/>
+	<TextEquiv>
+	<Unicode>mit</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b3ad123" language="German" custom="readingOrder {index:8;}">
+	<Coords points="634,548 697,548 697,561 634,561"/>
+	<TextEquiv>
+	<Unicode>ikari-utsi</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b3ad145" language="German" custom="readingOrder {index:9;}">
+	<Coords points="703,548 716,548 716,561 703,561"/>
+	<TextEquiv>
+	<Unicode>d.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b3ad151" language="German" custom="readingOrder {index:10;}">
+	<Coords points="724,550 732,550 732,561 724,561"/>
+	<TextEquiv>
+	<Unicode>i.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<TextEquiv>
+	<Unicode>umgekehrt kaminari. ikatsutsi wird für identisch erklärt mit ikari-utsi d. i.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></TextLine>
+	<TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:2;}">
+	<Coords points="187,570 732,570 732,589 187,589"/>
+	<Baseline points="187,583 732,583"/>
+	<Word id="w_w1aab1b5b2b9b5ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,573 225,573 225,589 187,589"/>
+	<TextEquiv>
+	<Unicode>(iclus</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b5ac15" language="German" custom="readingOrder {index:1;}">
+	<Coords points="231,576 246,576 246,584 231,584"/>
+	<TextEquiv>
+	<Unicode>ex</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b5ac21" language="German" custom="readingOrder {index:2;}">
+	<Coords points="252,572 281,572 281,588 252,588"/>
+	<TextEquiv>
+	<Unicode>ira).</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b5ac33" language="German" custom="readingOrder {index:3;}">
+	<Coords points="292,571 357,571 357,584 292,584"/>
+	<TextEquiv>
+	<Unicode>narukami</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b5ac51" language="German" custom="readingOrder {index:4;}">
+	<Coords points="364,571 403,571 403,584 364,584"/>
+	<TextEquiv>
+	<Unicode>heiszt</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b5ac65" language="German" custom="readingOrder {index:5;}">
+	<Coords points="409,570 471,570 471,584 409,584"/>
+	<TextEquiv>
+	<Unicode>tönender</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b5ac83" language="German" custom="readingOrder {index:6;}">
+	<Coords points="478,573 504,573 504,588 478,588"/>
+	<TextEquiv>
+	<Unicode>gott</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b5ac93" language="German" custom="readingOrder {index:7;}">
+	<Coords points="510,570 537,570 537,583 510,583"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b5ad101" language="German" custom="readingOrder {index:8;}">
+	<Coords points="543,570 603,570 603,583 543,583"/>
+	<TextEquiv>
+	<Unicode>kaminari</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b5ad119" language="German" custom="readingOrder {index:9;}">
+	<Coords points="610,572 678,572 678,588 610,588"/>
+	<TextEquiv>
+	<Unicode>götterton,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<Word id="w_w1aab1b5b2b9b5ad141" language="German" custom="readingOrder {index:10;}">
+	<Coords points="686,572 732,572 732,588 686,588"/>
+	<TextEquiv>
+	<Unicode>götter-</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<TextEquiv>
+	<Unicode>(iclus ex ira). narukami heiszt tönender gott und kaminari götterton, götter-</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></TextLine>
+	<TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:3;}">
+	<Coords points="187,595 240,595 240,607 187,607"/>
+	<Baseline points="187,606 240,606"/>
+	<Word id="w_w1aab1b5b2b9b7ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,595 240,595 240,607 187,607"/>
+	<TextEquiv>
+	<Unicode>stimme.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></Word>
+	<TextEquiv>
+	<Unicode>stimme.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="21.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Den Japanern heiszt donner ikatsutsi, ikadsutsi und narukami oder
+umgekehrt kaminari. ikatsutsi wird für identisch erklärt mit ikari-utsi d. i.
+(iclus ex ira). narukami heiszt tönender gott und kaminari götterton, götter-
+stimme.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_3_6" custom="readingOrder {index:6;}" type="paragraph">
+	<Coords points="186,611 734,611 734,785 186,785"/>
+	<TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="235,612 733,612 733,633 235,633"/>
+	<Baseline points="235,628 733,628"/>
+	<Word id="w_w1aab1b5b2c11b1ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="235,616 261,616 261,629 235,629"/>
+	<TextEquiv>
+	<Unicode>Für</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ab9" language="German" custom="readingOrder {index:1;}">
+	<Coords points="267,616 297,616 297,628 267,628"/>
+	<TextEquiv>
+	<Unicode>blitz</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ac21" language="German" custom="readingOrder {index:2;}">
+	<Coords points="304,620 341,620 341,633 304,633"/>
+	<TextEquiv>
+	<Unicode>sagen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ac33" language="German" custom="readingOrder {index:3;}">
+	<Coords points="347,616 365,616 365,628 347,628"/>
+	<TextEquiv>
+	<Unicode>sie</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ac41" language="German" custom="readingOrder {index:4;}">
+	<Coords points="371,615 436,615 436,631 371,631"/>
+	<TextEquiv>
+	<Unicode>inabikari,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ac63" language="German" custom="readingOrder {index:5;}">
+	<Coords points="445,615 513,615 513,631 445,631"/>
+	<TextEquiv>
+	<Unicode>inadsuma,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ac83" language="German" custom="readingOrder {index:6;}">
+	<Coords points="521,612 598,612 598,630 521,630"/>
+	<TextEquiv>
+	<Unicode>inadsurjbi.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ad107" language="German" custom="readingOrder {index:7;}">
+	<Coords points="617,614 653,614 653,627 617,627"/>
+	<TextEquiv>
+	<Unicode>fikari</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ad121" language="German" custom="readingOrder {index:8;}">
+	<Coords points="660,615 678,615 678,631 660,631"/>
+	<TextEquiv>
+	<Unicode>(in</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b1ad129" language="German" custom="readingOrder {index:9;}">
+	<Coords points="685,620 733,620 733,628 685,628"/>
+	<TextEquiv>
+	<Unicode>zusam-</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>Für blitz sagen sie inabikari, inadsuma, inadsurjbi. fikari (in zusam-</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:1;}">
+	<Coords points="187,637 732,637 732,655 187,655"/>
+	<Baseline points="187,650 732,650"/>
+	<Word id="w_w1aab1b5b2c11b3ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,641 238,641 238,655 187,655"/>
+	<TextEquiv>
+	<Unicode>setzung</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b3ac17" language="German" custom="readingOrder {index:1;}">
+	<Coords points="245,638 290,638 290,654 245,654"/>
+	<TextEquiv>
+	<Unicode>bikari)</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b3ac33" language="German" custom="readingOrder {index:2;}">
+	<Coords points="297,640 312,640 312,650 297,650"/>
+	<TextEquiv>
+	<Unicode>ist</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b3ac41" language="German" custom="readingOrder {index:3;}">
+	<Coords points="319,638 354,638 354,653 319,653"/>
+	<TextEquiv>
+	<Unicode>licht,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b3ac55" language="German" custom="readingOrder {index:4;}">
+	<Coords points="362,638 402,638 402,655 362,655"/>
+	<TextEquiv>
+	<Unicode>glanz,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b3ac69" language="German" custom="readingOrder {index:5;}">
+	<Coords points="422,637 465,637 465,650 422,650"/>
+	<TextEquiv>
+	<Unicode>dsuma</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b3ac81" language="German" custom="readingOrder {index:6;}">
+	<Coords points="472,637 504,637 504,652 472,652"/>
+	<TextEquiv>
+	<Unicode>frau,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b3ac93" language="German" custom="readingOrder {index:7;}">
+	<Coords points="512,638 554,638 554,654 512,654"/>
+	<TextEquiv>
+	<Unicode>gattin.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b3ad109" language="German" custom="readingOrder {index:8;}">
+	<Coords points="574,637 623,637 623,649 574,649"/>
+	<TextEquiv>
+	<Unicode>tsurubi</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b3ad125" language="German" custom="readingOrder {index:9;}">
+	<Coords points="630,638 648,638 648,653 630,653"/>
+	<TextEquiv>
+	<Unicode>(in</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b3ad133" language="German" custom="readingOrder {index:10;}">
+	<Coords points="655,642 732,642 732,650 655,650"/>
+	<TextEquiv>
+	<Unicode>Zusammen¬</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>setzung bikari) ist licht, glanz, dsuma frau, gattin. tsurubi (in Zusammen¬</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:2;}">
+	<Coords points="187,659 733,659 733,678 187,678"/>
+	<Baseline points="187,672 733,672"/>
+	<Word id="w_w1aab1b5b2c11b5ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,663 238,663 238,678 187,678"/>
+	<TextEquiv>
+	<Unicode>setzung</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b5ac17" language="German" custom="readingOrder {index:1;}">
+	<Coords points="243,660 301,660 301,676 243,676"/>
+	<TextEquiv>
+	<Unicode>dsurubi)</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b5ac35" language="German" custom="readingOrder {index:2;}">
+	<Coords points="308,661 323,661 323,672 308,672"/>
+	<TextEquiv>
+	<Unicode>ist</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b5ac43" language="German" custom="readingOrder {index:3;}">
+	<Coords points="328,660 399,660 399,677 328,677"/>
+	<TextEquiv>
+	<Unicode>begaltung.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b5ac65" language="German" custom="readingOrder {index:4;}">
+	<Coords points="412,660 431,660 431,672 412,672"/>
+	<TextEquiv>
+	<Unicode>ina</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b5ac73" language="German" custom="readingOrder {index:5;}">
+	<Coords points="437,660 452,660 452,672 437,672"/>
+	<TextEquiv>
+	<Unicode>ist</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b5ac81" language="German" custom="readingOrder {index:6;}">
+	<Coords points="457,659 480,659 480,672 457,672"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b5ac89" language="German" custom="readingOrder {index:7;}">
+	<Coords points="486,660 510,660 510,672 486,672"/>
+	<TextEquiv>
+	<Unicode>reis</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b5ac99" language="German" custom="readingOrder {index:8;}">
+	<Coords points="517,659 539,659 539,672 517,672"/>
+	<TextEquiv>
+	<Unicode>auf</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b5ad107" language="German" custom="readingOrder {index:9;}">
+	<Coords points="544,659 572,659 572,672 544,672"/>
+	<TextEquiv>
+	<Unicode>dem</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b5ad115" language="German" custom="readingOrder {index:10;}">
+	<Coords points="579,659 625,659 625,675 579,675"/>
+	<TextEquiv>
+	<Unicode>bahne,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b5ad129" language="German" custom="readingOrder {index:11;}">
+	<Coords points="633,659 659,659 659,671 633,671"/>
+	<TextEquiv>
+	<Unicode>also</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b5ad139" language="German" custom="readingOrder {index:12;}">
+	<Coords points="665,659 733,659 733,672 665,672"/>
+	<TextEquiv>
+	<Unicode>reisleuch¬</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>setzung dsurubi) ist begaltung. ina ist der reis auf dem bahne, also reisleuch¬</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:3;}">
+	<Coords points="187,681 733,681 733,700 187,700"/>
+	<Baseline points="187,694 733,694"/>
+	<Word id="w_w1aab1b5b2c11b7ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,686 212,686 212,698 187,698"/>
+	<TextEquiv>
+	<Unicode>ten,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b7ac11" language="German" custom="readingOrder {index:1;}">
+	<Coords points="220,683 287,683 287,700 220,700"/>
+	<TextEquiv>
+	<Unicode>reisgattin,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b7ac35" language="German" custom="readingOrder {index:2;}">
+	<Coords points="297,683 393,683 393,699 297,699"/>
+	<TextEquiv>
+	<Unicode>reisbegattung.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b7ac65" language="German" custom="readingOrder {index:3;}">
+	<Coords points="411,682 431,682 431,694 411,694"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b7ac73" language="German" custom="readingOrder {index:4;}">
+	<Coords points="437,682 509,682 509,699 437,699"/>
+	<TextEquiv>
+	<Unicode>japanische</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b7ac95" language="German" custom="readingOrder {index:5;}">
+	<Coords points="516,681 606,681 606,699 516,699"/>
+	<TextEquiv>
+	<Unicode>encyclopädie</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b7ad121" language="German" custom="readingOrder {index:6;}">
+	<Coords points="613,683 661,683 661,694 613,694"/>
+	<TextEquiv>
+	<Unicode>äuszert</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b7ad137" language="German" custom="readingOrder {index:7;}">
+	<Coords points="667,682 693,682 693,694 667,694"/>
+	<TextEquiv>
+	<Unicode>sich</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b7ad147" language="German" custom="readingOrder {index:8;}">
+	<Coords points="701,682 733,682 733,694 701,694"/>
+	<TextEquiv>
+	<Unicode>hier¬</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>ten, reisgattin, reisbegattung. die japanische encyclopädie äuszert sich hier¬</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:4;}">
+	<Coords points="187,703 733,703 733,722 187,722"/>
+	<Baseline points="187,716 733,716"/>
+	<Word id="w_w1aab1b5b2c11b9ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,705 219,705 219,717 187,717"/>
+	<TextEquiv>
+	<Unicode>über</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b9ac11" language="German" custom="readingOrder {index:1;}">
+	<Coords points="228,704 261,704 261,717 228,717"/>
+	<TextEquiv>
+	<Unicode>also:</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b9ac23" language="German" custom="readingOrder {index:2;}">
+	<Coords points="271,709 284,709 284,717 271,717"/>
+	<TextEquiv>
+	<Unicode>es</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b9ac29" language="German" custom="readingOrder {index:3;}">
+	<Coords points="293,705 308,705 308,717 293,717"/>
+	<TextEquiv>
+	<Unicode>ist</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b9ac37" language="German" custom="readingOrder {index:4;}">
+	<Coords points="316,705 343,705 343,717 316,717"/>
+	<TextEquiv>
+	<Unicode>eine</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b9ac47" language="German" custom="readingOrder {index:5;}">
+	<Coords points="352,704 438,704 438,722 352,722"/>
+	<TextEquiv>
+	<Unicode>gewöhnliche</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b9ac71" language="German" custom="readingOrder {index:6;}">
+	<Coords points="447,703 536,703 536,721 447,721"/>
+	<TextEquiv>
+	<Unicode>erscheinung,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b9ac97" language="German" custom="readingOrder {index:7;}">
+	<Coords points="546,703 574,703 574,716 546,716"/>
+	<TextEquiv>
+	<Unicode>dasz</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b9ad107" language="German" custom="readingOrder {index:8;}">
+	<Coords points="583,708 596,708 596,716 583,716"/>
+	<TextEquiv>
+	<Unicode>cs</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b9ad113" language="German" custom="readingOrder {index:9;}">
+	<Coords points="602,704 615,704 615,715 602,715"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b9ad119" language="German" custom="readingOrder {index:10;}">
+	<Coords points="621,703 677,703 677,716 621,716"/>
+	<TextEquiv>
+	<Unicode>heiteren</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11b9ad137" language="German" custom="readingOrder {index:11;}">
+	<Coords points="684,703 733,703 733,716 684,716"/>
+	<TextEquiv>
+	<Unicode>herbst¬</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>über also: es ist eine gewöhnliche erscheinung, dasz cs in heiteren herbst¬</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:5;}">
+	<Coords points="188,726 733,726 733,741 188,741"/>
+	<Baseline points="188,738 733,738"/>
+	<Word id="w_w1aab1b5b2c11c11ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="188,727 240,727 240,740 188,740"/>
+	<TextEquiv>
+	<Unicode>nächten</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ac17" language="German" custom="readingOrder {index:1;}">
+	<Coords points="248,727 295,727 295,739 248,739"/>
+	<TextEquiv>
+	<Unicode>blitzet,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ac35" language="German" custom="readingOrder {index:2;}">
+	<Coords points="309,726 325,726 325,739 309,739"/>
+	<TextEquiv>
+	<Unicode>da</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ac41" language="German" custom="readingOrder {index:3;}">
+	<Coords points="332,731 357,731 357,739 332,739"/>
+	<TextEquiv>
+	<Unicode>nun</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ac49" language="German" custom="readingOrder {index:4;}">
+	<Coords points="365,731 385,731 385,738 365,738"/>
+	<TextEquiv>
+	<Unicode>um</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ac55" language="German" custom="readingOrder {index:5;}">
+	<Coords points="392,726 426,726 426,738 392,738"/>
+	<TextEquiv>
+	<Unicode>diese</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ac67" language="German" custom="readingOrder {index:6;}">
+	<Coords points="432,727 456,727 456,738 432,738"/>
+	<TextEquiv>
+	<Unicode>zeit</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ac77" language="German" custom="readingOrder {index:7;}">
+	<Coords points="463,726 485,726 485,738 463,738"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ac85" language="German" custom="readingOrder {index:8;}">
+	<Coords points="491,727 515,727 515,738 491,738"/>
+	<TextEquiv>
+	<Unicode>reis</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ac95" language="German" custom="readingOrder {index:9;}">
+	<Coords points="522,731 544,731 544,738 522,738"/>
+	<TextEquiv>
+	<Unicode>zur</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ad103" language="German" custom="readingOrder {index:10;}">
+	<Coords points="550,726 581,726 581,738 550,738"/>
+	<TextEquiv>
+	<Unicode>reife</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ad115" language="German" custom="readingOrder {index:11;}">
+	<Coords points="588,726 640,726 640,741 588,741"/>
+	<TextEquiv>
+	<Unicode>kommt,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ad129" language="German" custom="readingOrder {index:12;}">
+	<Coords points="648,730 662,730 662,738 648,738"/>
+	<TextEquiv>
+	<Unicode>so</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ad135" language="German" custom="readingOrder {index:13;}">
+	<Coords points="668,726 708,726 708,738 668,738"/>
+	<TextEquiv>
+	<Unicode>heiszt</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c11ad149" language="German" custom="readingOrder {index:14;}">
+	<Coords points="713,726 733,726 733,738 713,738"/>
+	<TextEquiv>
+	<Unicode>ein</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>nächten blitzet, da nun um diese zeit der reis zur reife kommt, so heiszt ein</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:6;}">
+	<Coords points="188,747 733,747 733,766 188,766"/>
+	<Baseline points="188,760 733,760"/>
+	<Word id="w_w1aab1b5b2c11c13ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="188,749 238,749 238,762 188,762"/>
+	<TextEquiv>
+	<Unicode>solcher</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c13ac17" language="German" custom="readingOrder {index:1;}">
+	<Coords points="246,749 275,749 275,761 246,761"/>
+	<TextEquiv>
+	<Unicode>blitz</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c13ac29" language="German" custom="readingOrder {index:2;}">
+	<Coords points="285,749 329,749 329,761 285,761"/>
+	<TextEquiv>
+	<Unicode>dessen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c13ac43" language="German" custom="readingOrder {index:3;}">
+	<Coords points="338,749 376,749 376,766 338,766"/>
+	<TextEquiv>
+	<Unicode>gattin</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c13ac57" language="German" custom="readingOrder {index:4;}">
+	<Coords points="385,748 417,748 417,761 385,761"/>
+	<TextEquiv>
+	<Unicode>oder</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c13ac67" language="German" custom="readingOrder {index:5;}">
+	<Coords points="425,748 497,748 497,766 425,766"/>
+	<TextEquiv>
+	<Unicode>begatlung.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c13ac89" language="German" custom="readingOrder {index:6;}">
+	<Coords points="519,747 539,747 539,760 519,760"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c13ac97" language="German" custom="readingOrder {index:7;}">
+	<Coords points="547,748 602,748 602,765 547,765"/>
+	<TextEquiv>
+	<Unicode>Japaner</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c13ad113" language="German" custom="readingOrder {index:8;}">
+	<Coords points="611,749 661,749 661,760 611,760"/>
+	<TextEquiv>
+	<Unicode>müssen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c13ad127" language="German" custom="readingOrder {index:9;}">
+	<Coords points="672,748 733,748 733,760 672,760"/>
+	<TextEquiv>
+	<Unicode>demnach</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>solcher blitz dessen gattin oder begatlung. die Japaner müssen demnach</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:7;}">
+	<Coords points="187,770 661,770 661,784 187,784"/>
+	<Baseline points="187,783 661,783"/>
+	<Word id="w_w1aab1b5b2c11c15ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,772 214,772 214,784 187,784"/>
+	<TextEquiv>
+	<Unicode>eine</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c15ac11" language="German" custom="readingOrder {index:1;}">
+	<Coords points="224,771 282,771 282,783 224,783"/>
+	<TextEquiv>
+	<Unicode>hochzeit</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c15ac29" language="German" custom="readingOrder {index:2;}">
+	<Coords points="289,771 311,771 311,783 289,783"/>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c15ac37" language="German" custom="readingOrder {index:3;}">
+	<Coords points="318,771 383,771 383,783 318,783"/>
+	<TextEquiv>
+	<Unicode>reifenden</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c15ac57" language="German" custom="readingOrder {index:4;}">
+	<Coords points="390,771 427,771 427,783 390,783"/>
+	<TextEquiv>
+	<Unicode>reises</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c15ac71" language="German" custom="readingOrder {index:5;}">
+	<Coords points="433,771 446,771 446,782 433,782"/>
+	<TextEquiv>
+	<Unicode>in</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c15ac77" language="German" custom="readingOrder {index:6;}">
+	<Coords points="453,770 477,770 477,782 453,782"/>
+	<TextEquiv>
+	<Unicode>den</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c15ac85" language="German" custom="readingOrder {index:7;}">
+	<Coords points="483,770 580,770 580,782 483,782"/>
+	<TextEquiv>
+	<Unicode>herbstnächten</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c11c15ad113" language="German" custom="readingOrder {index:8;}">
+	<Coords points="586,770 661,770 661,782 586,782"/>
+	<TextEquiv>
+	<Unicode>annehmen.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>eine hochzeit des reifenden reises in den herbstnächten annehmen.</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>Für blitz sagen sie inabikari, inadsuma, inadsurjbi. fikari (in zusam-
+setzung bikari) ist licht, glanz, dsuma frau, gattin. tsurubi (in Zusammen¬
+setzung dsurubi) ist begaltung. ina ist der reis auf dem bahne, also reisleuch¬
+ten, reisgattin, reisbegattung. die japanische encyclopädie äuszert sich hier¬
+über also: es ist eine gewöhnliche erscheinung, dasz cs in heiteren herbst¬
+nächten blitzet, da nun um diese zeit der reis zur reife kommt, so heiszt ein
+solcher blitz dessen gattin oder begatlung. die Japaner müssen demnach
+eine hochzeit des reifenden reises in den herbstnächten annehmen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r_3_7" custom="readingOrder {index:7;}" type="paragraph">
+	<Coords points="186,791 734,791 734,899 186,899"/>
+	<TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:0;}">
+	<Coords points="236,792 733,792 733,811 236,811"/>
+	<Baseline points="236,805 733,805"/>
+	<Word id="w_w1aab1b5b2c13b1ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="236,793 257,793 257,806 236,806"/>
+	<TextEquiv>
+	<Unicode>das</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ab9" language="German" custom="readingOrder {index:1;}">
+	<Coords points="263,796 295,796 295,806 263,806"/>
+	<TextEquiv>
+	<Unicode>wort</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ac19" language="German" custom="readingOrder {index:2;}">
+	<Coords points="301,793 349,793 349,805 301,805"/>
+	<TextEquiv>
+	<Unicode>tsurubi</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ac35" language="German" custom="readingOrder {index:3;}">
+	<Coords points="356,793 389,793 389,805 356,805"/>
+	<TextEquiv>
+	<Unicode>kann</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ac45" language="German" custom="readingOrder {index:4;}">
+	<Coords points="396,793 454,793 454,810 396,810"/>
+	<TextEquiv>
+	<Unicode>übrigens</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ac63" language="German" custom="readingOrder {index:5;}">
+	<Coords points="461,792 493,792 493,805 461,805"/>
+	<TextEquiv>
+	<Unicode>auch</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ac73" language="German" custom="readingOrder {index:6;}">
+	<Coords points="499,792 517,792 517,805 499,805"/>
+	<TextEquiv>
+	<Unicode>als</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ac81" language="German" custom="readingOrder {index:7;}">
+	<Coords points="523,797 594,797 594,804 523,804"/>
+	<TextEquiv>
+	<Unicode>zusammen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ac99" language="German" custom="readingOrder {index:8;}">
+	<Coords points="596,796 650,796 650,811 596,811"/>
+	<TextEquiv>
+	<Unicode>gezogen</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ad115" language="German" custom="readingOrder {index:9;}">
+	<Coords points="657,797 678,797 678,805 657,805"/>
+	<TextEquiv>
+	<Unicode>aus</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b1ad123" language="German" custom="readingOrder {index:10;}">
+	<Coords points="686,793 733,793 733,805 686,805"/>
+	<TextEquiv>
+	<Unicode>tsuruvi</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>das wort tsurubi kann übrigens auch als zusammen gezogen aus tsuruvi</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:1;}">
+	<Coords points="187,814 732,814 732,833 187,833"/>
+	<Baseline points="187,827 732,827"/>
+	<Word id="w_w1aab1b5b2c13b3ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,816 254,816 254,833 187,833"/>
+	<TextEquiv>
+	<Unicode>begaltung</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b3ac21" language="German" custom="readingOrder {index:1;}">
+	<Coords points="260,815 285,815 285,828 260,828"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b3ac29" language="German" custom="readingOrder {index:2;}">
+	<Coords points="291,815 299,815 299,828 291,828"/>
+	<TextEquiv>
+	<Unicode>(i</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b3ac35" language="German" custom="readingOrder {index:3;}">
+	<Coords points="306,816 341,816 341,828 306,828"/>
+	<TextEquiv>
+	<Unicode>teuer</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b3ac47" language="German" custom="readingOrder {index:4;}">
+	<Coords points="346,815 405,815 405,832 346,832"/>
+	<TextEquiv>
+	<Unicode>gedeutet</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b3ac65" language="German" custom="readingOrder {index:5;}">
+	<Coords points="410,815 465,815 465,829 410,829"/>
+	<TextEquiv>
+	<Unicode>werden,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b3ac81" language="German" custom="readingOrder {index:6;}">
+	<Coords points="471,815 497,815 497,827 471,827"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b3ac89" language="German" custom="readingOrder {index:7;}">
+	<Coords points="503,814 536,814 536,827 503,827"/>
+	<TextEquiv>
+	<Unicode>dann</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b3ac99" language="German" custom="readingOrder {index:8;}">
+	<Coords points="541,814 581,814 581,827 541,827"/>
+	<TextEquiv>
+	<Unicode>hiesze</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b3ad113" language="German" custom="readingOrder {index:9;}">
+	<Coords points="587,814 657,814 657,830 587,830"/>
+	<TextEquiv>
+	<Unicode>inadsujtybi</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b3ad137" language="German" custom="readingOrder {index:10;}">
+	<Coords points="662,814 732,814 732,827 662,827"/>
+	<TextEquiv>
+	<Unicode>hochzeits¬</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>begaltung und (i teuer gedeutet werden, und dann hiesze inadsujtybi hochzeits¬</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:2;}">
+	<Coords points="188,836 732,836 732,855 188,855"/>
+	<Baseline points="188,849 732,849"/>
+	<Word id="w_w1aab1b5b2c13b5ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="188,838 227,838 227,853 188,853"/>
+	<TextEquiv>
+	<Unicode>feuer,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b5ac15" language="German" custom="readingOrder {index:1;}">
+	<Coords points="235,837 302,837 302,855 235,855"/>
+	<TextEquiv>
+	<Unicode>gleichsam</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b5ac35" language="German" custom="readingOrder {index:2;}">
+	<Coords points="308,837 414,837 414,849 308,849"/>
+	<TextEquiv>
+	<Unicode>hochzeitsfackel</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b5ac67" language="German" custom="readingOrder {index:3;}">
+	<Coords points="421,837 442,837 442,849 421,849"/>
+	<TextEquiv>
+	<Unicode>des</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b5ac75" language="German" custom="readingOrder {index:4;}">
+	<Coords points="449,838 493,838 493,852 449,852"/>
+	<TextEquiv>
+	<Unicode>reises,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b5ac91" language="German" custom="readingOrder {index:5;}">
+	<Coords points="504,841 528,841 528,849 504,849"/>
+	<TextEquiv>
+	<Unicode>was</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b5ac99" language="German" custom="readingOrder {index:6;}">
+	<Coords points="537,837 556,837 556,849 537,849"/>
+	<TextEquiv>
+	<Unicode>ein</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b5ad107" language="German" custom="readingOrder {index:7;}">
+	<Coords points="566,836 633,836 633,849 566,849"/>
+	<TextEquiv>
+	<Unicode>schöneres</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b5ad127" language="German" custom="readingOrder {index:8;}">
+	<Coords points="641,837 652,837 652,848 641,848"/>
+	<TextEquiv>
+	<Unicode>bi</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b5ad133" language="German" custom="readingOrder {index:9;}">
+	<Coords points="654,836 666,836 666,849 654,849"/>
+	<TextEquiv>
+	<Unicode>Id</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b5ad139" language="German" custom="readingOrder {index:10;}">
+	<Coords points="674,837 700,837 700,854 674,854"/>
+	<TextEquiv>
+	<Unicode>gibt</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b5ad149" language="German" custom="readingOrder {index:11;}">
+	<Coords points="706,836 732,836 732,848 706,848"/>
+	<TextEquiv>
+	<Unicode>und</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>feuer, gleichsam hochzeitsfackel des reises, was ein schöneres bi Id gibt und</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_34" primaryLanguage="German" custom="readingOrder {index:3;}">
+	<Coords points="187,858 733,858 733,877 187,877"/>
+	<Baseline points="187,871 733,871"/>
+	<Word id="w_w1aab1b5b2c13b7ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,860 244,860 244,877 187,877"/>
+	<TextEquiv>
+	<Unicode>zugleich</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b7ac19" language="German" custom="readingOrder {index:1;}">
+	<Coords points="254,860 278,860 278,872 254,872"/>
+	<TextEquiv>
+	<Unicode>viel</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b7ac29" language="German" custom="readingOrder {index:2;}">
+	<Coords points="290,859 376,859 376,877 290,877"/>
+	<TextEquiv>
+	<Unicode>vernünftiger</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b7ac55" language="German" custom="readingOrder {index:3;}">
+	<Coords points="384,860 406,860 406,874 384,874"/>
+	<TextEquiv>
+	<Unicode>ist,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b7ac65" language="German" custom="readingOrder {index:4;}">
+	<Coords points="416,859 433,859 433,871 416,871"/>
+	<TextEquiv>
+	<Unicode>als</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b7ac73" language="German" custom="readingOrder {index:5;}">
+	<Coords points="445,863 481,863 481,871 445,871"/>
+	<TextEquiv>
+	<Unicode>wenn</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b7ac83" language="German" custom="readingOrder {index:6;}">
+	<Coords points="490,863 518,863 518,872 490,872"/>
+	<TextEquiv>
+	<Unicode>man</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b7ac91" language="German" custom="readingOrder {index:7;}">
+	<Coords points="527,861 577,861 577,871 527,871"/>
+	<TextEquiv>
+	<Unicode>unterm</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b7ad105" language="German" custom="readingOrder {index:8;}">
+	<Coords points="586,858 624,858 624,871 586,871"/>
+	<TextEquiv>
+	<Unicode>blitze</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b7ad119" language="German" custom="readingOrder {index:9;}">
+	<Coords points="636,858 656,858 656,871 636,871"/>
+	<TextEquiv>
+	<Unicode>die</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b7ad127" language="German" custom="readingOrder {index:10;}">
+	<Coords points="664,859 733,859 733,876 664,876"/>
+	<TextEquiv>
+	<Unicode>begattung</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>zugleich viel vernünftiger ist, als wenn man unterm blitze die begattung</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextLine id="tl_35" primaryLanguage="German" custom="readingOrder {index:4;}">
+	<Coords points="187,880 618,880 618,898 187,898"/>
+	<Baseline points="187,893 618,893"/>
+	<Word id="w_w1aab1b5b2c13b9ab1" language="German" custom="readingOrder {index:0;}">
+	<Coords points="187,882 229,882 229,894 187,894"/>
+	<TextEquiv>
+	<Unicode>selber</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b9ac15" language="German" custom="readingOrder {index:1;}">
+	<Coords points="236,881 261,881 261,894 236,894"/>
+	<TextEquiv>
+	<Unicode>sich</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b9ac25" language="German" custom="readingOrder {index:2;}">
+	<Coords points="269,881 318,881 318,894 269,894"/>
+	<TextEquiv>
+	<Unicode>dächte,</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b9ac41" language="German" custom="readingOrder {index:3;}">
+	<Coords points="337,882 379,882 379,894 337,894"/>
+	<TextEquiv>
+	<Unicode>womit</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b9ac53" language="German" custom="readingOrder {index:4;}">
+	<Coords points="386,881 441,881 441,898 386,898"/>
+	<TextEquiv>
+	<Unicode>begattet</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b9ac71" language="German" custom="readingOrder {index:5;}">
+	<Coords points="447,881 474,881 474,893 447,893"/>
+	<TextEquiv>
+	<Unicode>sich</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b9ac81" language="German" custom="readingOrder {index:6;}">
+	<Coords points="480,881 513,881 513,893 480,893"/>
+	<TextEquiv>
+	<Unicode>dann</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b9ac91" language="German" custom="readingOrder {index:7;}">
+	<Coords points="520,881 550,881 550,893 520,893"/>
+	<TextEquiv>
+	<Unicode>aber</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b9ad101" language="German" custom="readingOrder {index:8;}">
+	<Coords points="556,880 579,880 579,893 556,893"/>
+	<TextEquiv>
+	<Unicode>der</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<Word id="w_w1aab1b5b2c13b9ad109" language="German" custom="readingOrder {index:9;}">
+	<Coords points="585,881 618,881 618,893 585,893"/>
+	<TextEquiv>
+	<Unicode>reis?</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></Word>
+	<TextEquiv>
+	<Unicode>selber sich dächte, womit begattet sich dann aber der reis?</Unicode></TextEquiv>
+	<TextStyle fontFamily="Times New Roman" fontSize="23.00000"/></TextLine>
+	<TextEquiv>
+	<Unicode>das wort tsurubi kann übrigens auch als zusammen gezogen aus tsuruvi
+begaltung und (i teuer gedeutet werden, und dann hiesze inadsujtybi hochzeits¬
+feuer, gleichsam hochzeitsfackel des reises, was ein schöneres bi Id gibt und
+zugleich viel vernünftiger ist, als wenn man unterm blitze die begattung
+selber sich dächte, womit begattet sich dann aber der reis?</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="TextRegion_1512737925294_1" custom="readingOrder {index:8;}" type="handwritten-annotation">
+	<Coords points="817,469 940,470 935,497 762,497 747,494 747,483"/></GraphicRegion>
+	<GraphicRegion id="TextRegion_1512737941888_2" custom="readingOrder {index:9;}" type="handwritten-annotation">
+	<Coords points="95,899 188,904 759,901 756,960 314,954 227,974 212,970 87,969 97,938"/></GraphicRegion>
+	<GraphicRegion id="r382" type="handwritten-annotation">
+	<Coords points="744,534 744,574 777,574 777,534"/></GraphicRegion></Page></PcGts>

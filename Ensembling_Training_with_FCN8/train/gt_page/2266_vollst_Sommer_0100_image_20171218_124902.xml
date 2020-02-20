@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:53.938+01:00</Created>
+        <LastChange>2018-02-09T18:05:38.629+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="2266_vollst_Sommer_0100_image_20171218_124902.jpg" imageWidth="1000" imageHeight="1649">
+        <GraphicRegion id="Graphic_1518195897722_264" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="80,606 167,606 167,650 80,650"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195909306_265" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="763,794 843,794 843,807 763,807"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195912523_266" custom="readingOrder {index:2;}" type="handwritten-annotation">
+            <Coords points="192,832 328,832 328,843 192,843"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195917446_267" custom="readingOrder {index:3;}" type="handwritten-annotation">
+            <Coords points="557,1061 813,1061 813,1075 557,1075"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195921334_268" custom="readingOrder {index:4;}" type="handwritten-annotation">
+            <Coords points="368,1097 553,1097 553,1111 368,1111"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

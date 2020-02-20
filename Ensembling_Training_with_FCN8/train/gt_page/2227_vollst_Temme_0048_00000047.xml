@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:53.309+01:00</Created>
+        <LastChange>2018-02-12T14:26:07.803+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="2227_vollst_Temme_0048_00000047.tif" imageWidth="2436" imageHeight="3802">
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518194844221_204" custom="readingOrder {index:0;}">
+            <Coords points="365,1353 884,1353 884,1379 365,1379"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518194848803_205" custom="readingOrder {index:1;}">
+            <Coords points="368,1450 853,1450 853,1464 368,1464"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518194852791_206" custom="readingOrder {index:2;}">
+            <Coords points="1302,1624 1495,1624 1495,1647 1302,1647"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518194864060_207" custom="readingOrder {index:3;}">
+            <Coords points="1875,1280 1943,1280 1943,1299 1875,1299"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518194868492_208" custom="readingOrder {index:4;}">
+            <Coords points="1377,1370 1895,1370 1895,1392 1377,1392"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518194885334_209" custom="readingOrder {index:5;}">
+            <Coords points="386,2143 1516,2143 1515,2157 385,2157"/>
+        </GraphicRegion>
+        <GraphicRegion type="handwritten-annotation" id="Graphic_1518441860162_3" custom="readingOrder {index:6;}">
+            <Coords points="2065,1311 2079,1313 2065,1391 2048,1387"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:53.835+01:00</Created>
+        <LastChange>2018-02-09T18:04:45.632+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="2266_vollst_Sommer_0096_image_20171218_124837.jpg" imageWidth="1000" imageHeight="1649">
+        <GraphicRegion id="Graphic_1518195845222_262" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="107,593 172,593 172,629 107,629"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195858976_263" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="345,1261 704,1266 708,1278 345,1278"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

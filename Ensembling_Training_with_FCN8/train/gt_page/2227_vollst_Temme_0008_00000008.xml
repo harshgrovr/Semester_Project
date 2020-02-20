@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:52.888+01:00</Created>
+        <LastChange>2018-02-09T17:41:19.702+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="2227_vollst_Temme_0008_00000008.tif" imageWidth="2436" imageHeight="3802">
+        <GraphicRegion id="Graphic_1518194428126_185" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="1801,1862 1990,1862 1990,1889 1801,1889"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194431887_186" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="769,1961 1298,1961 1298,1991 769,1991"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194435423_187" custom="readingOrder {index:2;}" type="handwritten-annotation">
+            <Coords points="444,1961 657,1961 657,1997 444,1997"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194446723_188" custom="readingOrder {index:3;}" type="handwritten-annotation">
+            <Coords points="1722,2538 1996,2538 1996,2568 1722,2568"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194449937_189" custom="readingOrder {index:4;}" type="handwritten-annotation">
+            <Coords points="468,2638 696,2638 696,2662 468,2662"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518194475472_190" custom="readingOrder {index:5;}" type="handwritten-annotation">
+            <Coords points="349,704 401,704 401,816 349,816"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

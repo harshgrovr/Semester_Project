@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:52.464+01:00</Created>
+        <LastChange>2018-02-09T17:31:40.717+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="2209_vollst_Büsching_0190_00000207.tif" imageWidth="2509" imageHeight="4250">
+        <GraphicRegion id="Graphic_1518193654866_167" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="661,2497 1349,2482 1354,2498 661,2518"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518193790827_168" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="619,2611 896,2611 896,2629 619,2629"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518193795227_169" custom="readingOrder {index:2;}" type="handwritten-annotation">
+            <Coords points="554,2736 800,2722 800,2736 554,2748"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518193816116_170" custom="readingOrder {index:3;}" type="handwritten-annotation">
+            <Coords points="472,2873 1104,2841 1108,2855 472,2890"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518193831328_171" custom="readingOrder {index:4;}" type="handwritten-annotation">
+            <Coords points="468,2987 788,2969 792,2982 470,3000"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518193856180_172" custom="readingOrder {index:5;}" type="handwritten-annotation">
+            <Coords points="380,3109 1207,3067 1203,3084 380,3123"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518193874744_173" custom="readingOrder {index:6;}" type="handwritten-annotation">
+            <Coords points="1520,2828 2013,2834 2015,2846 1520,2846"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

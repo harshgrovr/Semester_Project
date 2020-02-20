@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:50.640+01:00</Created>
+        <LastChange>2018-02-09T14:29:43.636+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="1213 Fauriel Origine_0009_00000009.tif" imageWidth="2495" imageHeight="3669">
+        <GraphicRegion id="Graphic_1518182793293_17" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="1460,1114 1665,1107 1665,1125 1460,1128"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518182825048_18" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="846,1316 1012,1312 1014,1321 1037,1322 1045,1314 1814,1305 1816,1324 846,1332"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518182893782_19" custom="readingOrder {index:2;}" type="handwritten-annotation">
+            <Coords points="425,1381 518,1378 519,1387 533,1390 542,1382 999,1377 996,1394 427,1401"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518182971577_20" custom="readingOrder {index:3;}" type="handwritten-annotation">
+            <Coords points="1848,1212 2281,1212 2281,1370 1848,1370"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

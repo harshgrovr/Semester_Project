@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:51.148+01:00</Created>
+        <LastChange>2018-02-09T16:43:45.565+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="2174_Haimonskinder_0007_00000007.tif" imageWidth="3477" imageHeight="4945">
+        <GraphicRegion id="Graphic_1518190953101_63" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="1515,754 1791,754 1791,792 1515,792"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518190969503_64" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="1740,2202 2017,2202 2017,2217 1740,2217"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518190974365_65" custom="readingOrder {index:2;}" type="handwritten-annotation">
+            <Coords points="915,2359 1419,2349 1423,2363 915,2376"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518191004318_66" custom="readingOrder {index:3;}" type="handwritten-annotation">
+            <Coords points="3087,2548 3144,2548 3144,3337 3087,3337"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518191009318_67" custom="readingOrder {index:4;}" type="handwritten-annotation">
+            <Coords points="3095,3361 3152,3361 3152,3948 3095,3948"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

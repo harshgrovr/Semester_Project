@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:50.558+01:00</Created>
+        <LastChange>2018-02-09T14:22:52.394+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="582a_Hesiods_Werke_0006_00000006.tif" imageWidth="1668" imageHeight="2775">
+        <GraphicRegion id="Graphic_1518182488693_8" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="354,1069 830,1069 830,1087 354,1087"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518182493688_9" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="1066,1072 1416,1072 1416,1094 1069,1091"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518182498195_10" custom="readingOrder {index:2;}" type="handwritten-annotation">
+            <Coords points="972,1391 1167,1391 1167,1406 972,1406"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

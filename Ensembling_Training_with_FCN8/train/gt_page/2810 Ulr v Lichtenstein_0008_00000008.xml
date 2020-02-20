@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2018-02-09T14:14:54.045+01:00</Created>
+        <LastChange>2018-02-09T18:10:50.538+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="2810 Ulr v Lichtenstein_0008_00000008.tif" imageWidth="2055" imageHeight="3229">
+        <GraphicRegion id="Graphic_1518195954829_269" custom="readingOrder {index:0;}" type="handwritten-annotation">
+            <Coords points="459,436 586,436 586,507 459,507"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195957707_270" custom="readingOrder {index:1;}" type="handwritten-annotation">
+            <Coords points="474,525 592,525 592,587 474,587"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195960427_271" custom="readingOrder {index:2;}" type="handwritten-annotation">
+            <Coords points="470,598 591,598 591,661 470,661"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195964399_272" custom="readingOrder {index:3;}" type="handwritten-annotation">
+            <Coords points="495,665 597,665 597,730 495,730"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195969212_273" custom="readingOrder {index:4;}" type="handwritten-annotation">
+            <Coords points="619,726 712,726 712,805 619,805"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195972016_274" custom="readingOrder {index:5;}" type="handwritten-annotation">
+            <Coords points="474,790 597,790 597,867 474,867"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195976150_275" custom="readingOrder {index:6;}" type="handwritten-annotation">
+            <Coords points="496,871 605,871 605,945 496,945"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195984088_276" custom="readingOrder {index:7;}" type="handwritten-annotation">
+            <Coords points="496,941 605,941 605,996 496,996"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195986451_277" custom="readingOrder {index:8;}" type="handwritten-annotation">
+            <Coords points="507,1003 606,1003 606,1070 507,1070"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195988670_278" custom="readingOrder {index:9;}" type="handwritten-annotation">
+            <Coords points="412,1080 526,1080 526,1155 412,1155"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195991754_279" custom="readingOrder {index:10;}" type="handwritten-annotation">
+            <Coords points="585,1128 547,1128 547,1092 585,1092"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518195995876_280" custom="readingOrder {index:11;}" type="handwritten-annotation">
+            <Coords points="480,1156 603,1156 603,1222 480,1222"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196000341_281" custom="readingOrder {index:12;}" type="handwritten-annotation">
+            <Coords points="493,1222 594,1222 594,1284 493,1284"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196004759_282" custom="readingOrder {index:13;}" type="handwritten-annotation">
+            <Coords points="1082,1202 1423,1202 1423,1217 1082,1217"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196008553_283" custom="readingOrder {index:14;}" type="handwritten-annotation">
+            <Coords points="930,1273 1332,1273 1332,1281 930,1281"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196013157_284" custom="readingOrder {index:15;}" type="handwritten-annotation">
+            <Coords points="611,1273 904,1273 904,1285 611,1285"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196023053_285" custom="readingOrder {index:16;}" type="handwritten-annotation">
+            <Coords points="600,1283 709,1283 709,1332 600,1332"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196034124_286" custom="readingOrder {index:17;}" type="handwritten-annotation">
+            <Coords points="468,1344 587,1344 587,1412 468,1412"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196036695_287" custom="readingOrder {index:18;}" type="handwritten-annotation">
+            <Coords points="434,1418 533,1418 533,1495 434,1495"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196039072_288" custom="readingOrder {index:19;}" type="handwritten-annotation">
+            <Coords points="544,1435 604,1435 604,1480 544,1480"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196041904_289" custom="readingOrder {index:20;}" type="handwritten-annotation">
+            <Coords points="482,1495 598,1495 598,1556 482,1556"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196044340_290" custom="readingOrder {index:21;}" type="handwritten-annotation">
+            <Coords points="494,1567 603,1567 603,1639 494,1639"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196047088_291" custom="readingOrder {index:22;}" type="handwritten-annotation">
+            <Coords points="511,1642 607,1642 607,1701 511,1701"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196049476_292" custom="readingOrder {index:23;}" type="handwritten-annotation">
+            <Coords points="507,1719 609,1719 609,1778 507,1778"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196052418_293" custom="readingOrder {index:24;}" type="handwritten-annotation">
+            <Coords points="611,1752 925,1752 925,1766 611,1766"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196056777_294" custom="readingOrder {index:25;}" type="handwritten-annotation">
+            <Coords points="701,1556 1320,1556 1320,1565 701,1565"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196061122_295" custom="readingOrder {index:26;}" type="handwritten-annotation">
+            <Coords points="905,1689 1305,1689 1305,1704 905,1704"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196064678_296" custom="readingOrder {index:27;}" type="handwritten-annotation">
+            <Coords points="528,1775 590,1775 590,1830 528,1830"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196067863_297" custom="readingOrder {index:28;}" type="handwritten-annotation">
+            <Coords points="655,1847 719,1847 719,1900 655,1900"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196078321_298" custom="readingOrder {index:29;}" type="handwritten-annotation">
+            <Coords points="496,1904 591,1904 591,1974 496,1974"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196082212_299" custom="readingOrder {index:30;}" type="handwritten-annotation">
+            <Coords points="473,1966 604,1966 604,2036 473,2036"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196086096_300" custom="readingOrder {index:31;}" type="handwritten-annotation">
+            <Coords points="503,2046 599,2046 599,2103 503,2103"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196091289_301" custom="readingOrder {index:32;}" type="handwritten-annotation">
+            <Coords points="429,2098 556,2098 556,2183 429,2183"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196096572_302" custom="readingOrder {index:33;}" type="handwritten-annotation">
+            <Coords points="503,2188 602,2170 599,2253 503,2253"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196108776_303" custom="readingOrder {index:34;}" type="handwritten-annotation">
+            <Coords points="491,2260 602,2260 602,2317 491,2317"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196111932_304" custom="readingOrder {index:35;}" type="handwritten-annotation">
+            <Coords points="496,2320 604,2320 604,2383 496,2383"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196120382_305" custom="readingOrder {index:36;}" type="handwritten-annotation">
+            <Coords points="595,2392 702,2392 702,2466 595,2466"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196122746_306" custom="readingOrder {index:37;}" type="handwritten-annotation">
+            <Coords points="400,2465 516,2465 516,2547 400,2547"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196126083_307" custom="readingOrder {index:38;}" type="handwritten-annotation">
+            <Coords points="512,2546 615,2546 615,2602 512,2602"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196128998_308" custom="readingOrder {index:39;}" type="handwritten-annotation">
+            <Coords points="500,2605 601,2605 601,2668 500,2668"/>
+        </GraphicRegion>
+        <GraphicRegion id="Graphic_1518196157088_309" custom="readingOrder {index:40;}" type="handwritten-annotation">
+            <Coords points="126,1663 503,1667 525,1701 562,1696 563,1718 505,1725 503,1778 520,1785 524,1847 646,1843 645,1901 426,1904 398,1933 126,1932"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>
