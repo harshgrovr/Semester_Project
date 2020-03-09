@@ -23,6 +23,6 @@
   #### II) Training FCN8 from the output of previous step
     - Activate environment using following command: conda activate vdl_project
     - Run the following notebook file for the process: [Training FCN8 with Ensembled Data](https://github.com/harshgrovr/Semester_Project/blob/master/Ensembling_Training_with_FCN8/Ensembling_training_with_FCN8.ipynb) resp.
-    - If you just wanna to see results for FCN8 as mentioned in project report, download the weights from following link: [Weights for Ensembled Training](https://drive.google.com/file/d/1CuuDQiOCuXUOH8Pi70ddNJk7jZgwvIzh/view?usp=sharing) and put them under [Ensembling_Training_with_FCN8](https://github.com/harshgrovr/Semester_Project/tree/master/Ensembling_Training_with_FCN8) folder:
+    - If you just wanna to see results for FCN8 as mentioned in project report, download the weights from following link: [Weights for Ensembled Training](https://drive.google.com/file/d/1WbUGWWRz_gxLZlhRTtE6IVoOvUGvj4lS/view?usp=sharing) and put them under [Ensembling_Training_with_FCN8](https://github.com/harshgrovr/Semester_Project/tree/master/Ensembling_Training_with_FCN8) folder:
     - Dataset and results can be found under: [Dataset](https://github.com/harshgrovr/Semester_Project/tree/master/Ensembling_Training_with_FCN8) and "Semester_Project/tree/master/Mask_RCNN/log-mg3/Ensembling_Training_with_FCN8/prediction-private" resp. (will be generated during prediction time).
   
