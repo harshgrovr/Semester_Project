@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 
-MAINTAINER Waleed Abdulla <waleed.abdulla@gmail.com>
+MAINTAINER Harsh Grover <harshgrover51@gmail.com>
 
 ARG DEBIAN_FRONTEND=noninteractive
 
