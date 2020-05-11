@@ -6,10 +6,10 @@
   
   #### Set Up
   ##### Using Docker
-  ###### TensorFlow-GPU
+  ###### Training Mask RCNN and generating Ensemled data (Tensorflow-gpu)
   - docker run -it -p 8888:8888 -v $PWD:/tf/ harshgrover51/mindmap:tf-gpu-1.14.0
   - Open Browser and run locahost:8888 to launch notebook and copy paste the code from terminal
-  ###### Pytorch-GPU
+  ###### Training FCN8 from the output of previous step (Pytorch-gpu)
   -  docker pull harshgrover51/mindmap:pytorch-gpu
   -  docker run -it -p 8888:8888 --gpus all --volume=$PWD:/jupyter --name pytorch-gpu harshgrover51/mindmap:pytorch-gpu
   -  cd /jupyter
