@@ -6,8 +6,15 @@
   
   #### Set Up
   ##### Using Docker
-  - docker run -it -p 8888:8888 -v <Project_DIR>:/tf/ harshgrover51/mindmap:tf-gpu-1.14.0
+  ###### TensorFlow-GPU
+  - docker run -it -p 8888:8888 -v $PWD:/tf/ harshgrover51/mindmap:tf-gpu-1.14.0
   - Open Browser and run locahost:8888 to launch notebook and copy paste the code from terminal
+  ###### Pytorch-GPU
+  -  docker pull harshgrover51/mindmap:pytorch-gpu
+  -  docker run -it -p 8888:8888 --gpus all --volume=$PWD:/jupyter --name pytorch-gpu harshgrover51/mindmap:pytorch-gpu
+  -  cd /jupyter
+  -  jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
+
   ##### Using Conda
   - This repo contains two environment files fcn8_ensembling.yml and mask_rcnn.yml for setting up environment for FCN8 and MaskRCNN respectively. 
   - Make sure you have conda installed and using following commands create two environments. YML files can be found in "Conda_Env_Files" Folder:
