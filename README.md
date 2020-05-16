@@ -5,6 +5,26 @@
   
   
   #### Set Up
+  ##### Using Docker
+  ###### [Install Docker](https://docs.docker.com/install/)
+  ###### Install nvidia-docker (in order to get access to the GPU inside the docker container)
+  - distribution=$(. /etc/os-release;echo $ID$VERSION_ID)
+  - curl -s -L https://nvidia.github.io/nvidia-docker/gpgkey | sudo apt-key add -
+  - curl -s -L https://nvidia.github.io/nvidia-docker/$distribution/nvidia-docker.list | sudo tee /etc/apt/sources.list.d/nvidia-docker.list
+
+  - sudo apt-get update && sudo apt-get install -y nvidia-container-toolkit
+  - sudo systemctl restart docker
+
+  ###### Training Mask RCNN and generating Ensemled data (Tensorflow-gpu)
+  - docker run -it -p 8888:8888 -v $PWD:/tf/ harshgrover51/mindmap:tf-gpu-1.14.0
+  - Open Browser and run locahost:8888 to launch notebook and copy paste the code from terminal
+  ###### Training FCN8 from the output of previous step (Pytorch-gpu)
+  -  docker pull harshgrover51/mindmap:pytorch-gpu
+  -  docker run -it -p 8888:8888 --gpus all --volume=$PWD:/jupyter --name pytorch-gpu harshgrover51/mindmap:pytorch-gpu
+  -  cd /jupyter
+  -  jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
+
+  ##### Using Conda
   - This repo contains two environment files fcn8_ensembling.yml and mask_rcnn.yml for setting up environment for FCN8 and MaskRCNN respectively. 
   - Make sure you have conda installed and using following commands create two environments. YML files can be found in "Conda_Env_Files" Folder:
     - conda env create -f fcn8_ensembling.yml
