@@ -6,7 +6,7 @@
   
   #### Set Up
   ##### Using Docker
-  ###### [Install Docker](https://docs.docker.com/install/)
+  ###### [Install Docker](https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04)
   ###### Install nvidia-docker (in order to get access to the GPU inside the docker container)
   - distribution=$(. /etc/os-release;echo $ID$VERSION_ID)
   - curl -s -L https://nvidia.github.io/nvidia-docker/gpgkey | sudo apt-key add -
