@@ -31,8 +31,9 @@
     - conda env create -f mask_rcnn.yml
   - After installation from above step activate the environment:
     - conda activate cuda10
-  ### Before running notebook make sure you set up Docker environment
+ 
   #### I) Training Mask RCNN and generating Ensemled data
+  - Before running notebook make sure you set up Docker environment for tensorflow-gpu as described above
   - If you just wanna to see results for MaskRCNN as mentioned in project report, download the weights from following link and put them under [logs](https://github.com/harshgrovr/Semester_Project/tree/master/Mask_RCNN/logs) folder:
     - [Weights for Resized_Image_Mode](https://drive.google.com/file/d/1Ln5RcC9RlzHK5NTMzjsF3_X5GXYp2F7L/view?usp=sharing) gives accuracy of 92.13 % (best accuracy)  
     - [Weights for Random_Crop Mode](https://drive.google.com/file/d/1dM_86GJXRrx8Bdo_Y4TeuL1H45aox56y/view?usp=sharing)
@@ -42,7 +43,7 @@
   - This notebook contains code for the sections like Visualzing Anchors and also the Prediction on Cropped Image and Stiching the Image to get full Size prediction.
  
   #### II) Training FCN8 from the output of previous step
-    - Activate environment using following command: conda activate vdl_project
+    - Before running notebook make sure you set up Docker environment for Pytorch-gpu as described above
     - Run the following notebook file for the process: [Training FCN8 with Ensembled Data](https://github.com/harshgrovr/Semester_Project/blob/master/Ensembling_Training_with_FCN8/Ensembling_training_with_FCN8.ipynb) resp.
     - If you just wanna to see results for FCN8 as mentioned in project report, download the weights from following link: [Weights for Ensembled Training](https://drive.google.com/file/d/1WbUGWWRz_gxLZlhRTtE6IVoOvUGvj4lS/view?usp=sharing) and put them under [Ensembling_Training_with_FCN8](https://github.com/harshgrovr/Semester_Project/tree/master/Ensembling_Training_with_FCN8) folder:
     - Dataset and results can be found under: [Dataset](https://github.com/harshgrovr/Semester_Project/tree/master/Ensembling_Training_with_FCN8) and "Semester_Project/tree/master/Mask_RCNN/log-mg3/Ensembling_Training_with_FCN8/prediction-private" resp. (will be generated during prediction time).
