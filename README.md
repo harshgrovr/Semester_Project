@@ -31,6 +31,7 @@
     - conda env create -f mask_rcnn.yml
   - After installation from above step activate the environment:
     - conda activate cuda10
+  ### Before running notebook make sure you set up Docker environment
   #### I) Training Mask RCNN and generating Ensemled data
   - If you just wanna to see results for MaskRCNN as mentioned in project report, download the weights from following link and put them under [logs](https://github.com/harshgrovr/Semester_Project/tree/master/Mask_RCNN/logs) folder:
     - [Weights for Resized_Image_Mode](https://drive.google.com/file/d/1Ln5RcC9RlzHK5NTMzjsF3_X5GXYp2F7L/view?usp=sharing) gives accuracy of 92.13 % (best accuracy)  
